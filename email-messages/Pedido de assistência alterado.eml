@@ -1,0 +1,605 @@
+Received: from PAVPR08MB9236.eurprd08.prod.outlook.com (2603:10a6:102:307::16)
+ by AS2PR08MB9716.eurprd08.prod.outlook.com with HTTPS; Tue, 12 Nov 2024
+ 12:22:30 +0000
+Received: from AS4P190CA0002.EURP190.PROD.OUTLOOK.COM (2603:10a6:20b:5de::11)
+ by PAVPR08MB9236.eurprd08.prod.outlook.com (2603:10a6:102:307::16) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8137.29; Tue, 12 Nov
+ 2024 12:22:27 +0000
+Received: from AM3PEPF0000A795.eurprd04.prod.outlook.com
+ (2603:10a6:20b:5de:cafe::5e) by AS4P190CA0002.outlook.office365.com
+ (2603:10a6:20b:5de::11) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8137.29 via Frontend
+ Transport; Tue, 12 Nov 2024 12:22:27 +0000
+Received: from wrqvzxsw.outbound-mail.sendgrid.net (149.72.234.105) by
+ AM3PEPF0000A795.mail.protection.outlook.com (10.167.16.100) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8158.14
+ via Frontend Transport; Tue, 12 Nov 2024 12:22:26 +0000
+Received: by recvd-d66cff667-bkq9z with SMTP id recvd-d66cff667-bkq9z-1-67334881-8
+	2024-11-12 12:22:25.335745651 +0000 UTC m=+5250312.470463911
+Received: from OTM3MTUwNg (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id yLIBauHqRF-Rjzdo5Ye19A
+	Tue, 12 Nov 2024 12:22:25.233 +0000 (UTC)
+From: SMTP.Helpdesk.DRI <smtp.helpdesk@madeira.gov.pt>
+To: =?Windows-1252?Q?Jos=E9_Micael_Gon=E7alves_Ribeiro?=
+	<jose.mg.ribeiro@madeira.gov.pt>
+Subject: =?Windows-1252?Q?Pedido_de_assist=EAncia_alterado?=
+Thread-Topic: =?Windows-1252?Q?Pedido_de_assist=EAncia_alterado?=
+Thread-Index: AQHbNP2Lbu3+LKyV10OsVnxYGZadAQ==
+Date: Tue, 12 Nov 2024 12:22:25 +0000
+Message-ID: <yLIBauHqRF-Rjzdo5Ye19A@geopod-ismtpd-2>
+Content-Language: pt-PT
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource:
+ AM3PEPF0000A795.eurprd04.prod.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+ 06ef1258-6885-4d0a-dbb7-08dd0314abc9
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+received-spf: Pass (protection.outlook.com: domain of em6757.madeira.gov.pt
+ designates 149.72.234.105 as permitted sender)
+ receiver=protection.outlook.com; client-ip=149.72.234.105;
+ helo=wrqvzxsw.outbound-mail.sendgrid.net; pr=C
+x-ms-exchange-organization-originalclientipaddress: 149.72.234.105
+x-ms-exchange-organization-originalserveripaddress: 10.167.16.100
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+ =?Windows-1252?Q?2qeloBkC6ZY0zxoi5GJd1R5+ujA1h8F0HiLrGawcZwa6ze38/JeXikY7?=
+ =?Windows-1252?Q?9xK6K9Lqxwky7OoQp+6wjQtcdzCCbyP1o5JoQIlmenfLfNX1KKbGWGRy?=
+ =?Windows-1252?Q?Sh2/QkhMYYHugPzLWEuAs0iBEQOCqsBhWEcCK+b6A1x32x9AocYJxkEE?=
+ =?Windows-1252?Q?k8di0snP2s7Ed9n1HEd54NmgARd7QwkQWt9zMOivahMpXJQhC49BYLVl?=
+ =?Windows-1252?Q?zEHAzhK7o2VkWN8JqdexlLN0PDaRDxe8cAu82VvmjFcIxgK9/u+jzkOJ?=
+ =?Windows-1252?Q?iCVWBHUEgM0sWl3yC0MUeWuPH7xLfpMThwAzypfYlkXxH3ZNzoIDdbCy?=
+ =?Windows-1252?Q?Ipjze+7b43ecGaOzhP8uUixHdno88XyZPYQauw1+6Fe/1vTbJ3zpJJfx?=
+ =?Windows-1252?Q?/shfUA5GjCCglUlsyNOVLwyKU+38WrFE/DpLVPAHQKbi8jtMn0MOcWsq?=
+ =?Windows-1252?Q?0c6JNo7ypRmc+xBbbqGPoVP1yyMNdUEaqbACTyOeUiDagCDgK/560Vi5?=
+ =?Windows-1252?Q?9a75FCCEjrLoNkLZiOZA0klSREJrQJ+Nt8Q1Zvx8pq4cTUmvGXATPR/p?=
+ =?Windows-1252?Q?U5bvOFHbtCzDwySNYxyVMCFnfBuoMNlV8z/W4sjg+3tfvDH5s/uYyPHm?=
+ =?Windows-1252?Q?mjxvFTk2bzixc4wVExP9CIPh0+cVeBSM4pnExG0xzNugyYNR9pbIP4Oo?=
+ =?Windows-1252?Q?dVmr3YVlpbHBwDNhkDk6XhC21Ozt+kO//xIrVdbCt4XOp+FipEwGvVCG?=
+ =?Windows-1252?Q?PAywUCq8bdydi6LjmbBbL3DKhqB6eWQsOQ96OyOukJI43wfMKyVJp/Tv?=
+ =?Windows-1252?Q?M6yg61oJy3mvFcJnlytEIQ0upSO0B/vRtYWDZRWR34yZZQfrKkvJ4oM0?=
+ =?Windows-1252?Q?oDK8wK7nB+HJXQz3pK1Ao8lHFj0H3zIQM2tO8Ty9mH81gyPYwy+6MlyP?=
+ =?Windows-1252?Q?VjReGxHu59hoFmjI5TXmacASSat017mDyQ8vZCKJ3VykYYeWY/hXdjpi?=
+ =?Windows-1252?Q?0fiwqcSg/Js9AwKNUq74Sm0yr93DV9qNYRqWHTyxXwp14T5MogA0hI3F?=
+ =?Windows-1252?Q?tPHSrNCeR9Se0vgDsGmDuouCMt0gc92ahHPj5APSnLI/amyvvvvv51fN?=
+ =?Windows-1252?Q?mZoQXS/YqkKY6n+xO7zFumKA3wafNCSQVQ//9BJkuNM1hixhLvStNOuc?=
+ =?Windows-1252?Q?eITdTDG6vQ3Buxdm5Xary2IikSvyo8uImzdKfUAWPAgY5rExrp22lGdP?=
+ =?Windows-1252?Q?pasyngpO+VNSWuXG41B0pEx0XvImyo0pKnx9vFvnTk1C7HSZFUQosSkN?=
+ =?Windows-1252?Q?+I3d7hqiYqfayyITVuSep7P5QNcY2NpRhnN5WfQH5FgqswOeI1VgTmKS?=
+ =?Windows-1252?Q?9ydqFNad08Qk17dAKaHksBcHLcWwHP9r2lc=3D?=
+Content-Type: multipart/related;
+	boundary="_004_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_004_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_
+Content-Type: multipart/alternative;
+	boundary="_000_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_"
+
+--_000_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Pedido de assist=EAncia alterado
+[Governo Regional da Madeira] <https://eur02.safelinks.protection.outlook.c=
+om/?url=3Dhttps%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1n=
+yGK95i-2F1w35o3V5tPoTljP-2F1O6Cu6C5nixPo36ag0gK4qrMLSM878uJ1vv6T6G9JtLV64l0=
+QD2-2BOH54Q-3D-3DgaST_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjrnKw5=
+WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJWq0hnKPrvczn9-2Fqzlb0L-2BnFxUmfmkLK=
+edY-2FIvli1ghC6sfcHoLHsOUK3xnhyLsIdXPguJCUkZKAmGrBJpXh5-2FWGnUED-2Bsu75dnWS=
+ZhSFGLa-2BMN9hcO-2B3vSW0B-2BkzOAq5w-3D-3D&data=3D05%7C02%7Cjose.mg.ribeiro%=
+40madeira.gov.pt%7C06ef125868854d0adbb708dd0314abc9%7C132d391d4a224529b7a28=
+333ee887410%7C1%7C0%7C638670109504298909%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU=
+1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyf=
+Q%3D%3D%7C0%7C%7C%7C&sdata=3D9Z8i7T3wakDRuPM4ltPBEq4pyOc%2BSpBT83n4yZLwbaM%=
+3D&reserved=3D0>
+Pedido de assist=EAncia
+
+Caro(a) Jos=E9 Micael Gon=E7alves Ribeiro,
+
+Vimos inform=E1-lo que o seu pedido com a descri=E7=E3o:
+
+O =C9lio Javier de Agrela de Sousa (estagi=E1rio) j=E1 terminou o seu est=
+=E1gio. Ele tinha o voip TAG000063973 - GRP 2603P =96 MAC: c074ad6d128a com=
+ a extens=E3o voip. 459084 Entretanto recebemos um novo estagi=E1rio, Jos=
+=E9 Micael Gon=E7alves Ribeiro com o emial: jose.mg.ribeiro@madeira.gov.pt.=
+ Por favor atribuir a ext. voip do =C9lio Sousa para o Micael Ribeiro
+
+sofreu uma interven=E7=E3o. Para acompanhar o seu estado, por favor clique =
+no bot=E3o seguinte.
+
+
+
+Consultar estado <https://eur02.safelinks.protection.outlook.com/?url=3Dhtt=
+ps%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35=
+o3V5tPoTljP-2F1O6Cu6C5nixPo36ag0gK4qrMLSM878uJ1vv1Fp-2FsxxMAhNtJNrXFDhdotdO=
+9qKSUAvcOWjdcRUZ-2F-2FKMUR7lnYuwmQkwKLLzkRjKMXOP7JiIg4tNBJdDenqNJw-3D-3D85-=
+i_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1Y=
+wErBnmtoFf4tVs7csmMJYIBC7LfYVbAaYJWRPBmff3mkYCxEBTACwPM2yFSlpOPIq-2FP6FZHtx=
+K4W-2FuHKmuXWJDuPxAqjFgi865PXaLFFrm2rTo4qPxRBX8uEwlKR53yIrm5-2FH-2BtpqDkYD8=
+JigPOXA-3D-3D&data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C06ef12586=
+8854d0adbb708dd0314abc9%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C638670=
+109504346657%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMD=
+AwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=
+=3DdtYxunoi05og4SDxIs2BHDKXabOzULzFLmqO9KNEwC4%3D&reserved=3D0>
+
+
+A equipa de assist=EAncia t=E9cnica.
+
+
+
+SRF - Secretaria Regional das Finan=E7as
+Dire=E7=E3o Regional de Inform=E1tica
+Azinhaga do Po=E7o Barral, n.=BA 23
+Edif=EDcio Funchal Business Center, Piso 1A
+9000-638 =96 Funchal - Madeira
+Tel.: +351 291 145 190
+helpdesk.dri@madeira.gov.pt<mailto:helpdesk.dri@madeira.gov.pt>
+
+www.madeira.gov.pt<https://eur02.safelinks.protection.outlook.com/?url=3Dht=
+tps%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w3=
+5o3V5lkXT8C-2BSq-2BBVcvdq3W7gyPKpG7OF02Ga8TJQVabMLRQ2SJO_snLzOPMCxm-2BIHQFF=
+voJhAxD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJ=
+WgAFRaNTTkByQWIHb-2B0me4nMWB6w883yPGJsbIcTmFXc14uywK3x88BYuI00UQFuga02AFqWD=
+vxeLyti-2FPPteBYSFfBRn4onz-2FEDRNt59cHA01mcQYzsp5s-2FPd8r8VfpQ-3D-3D&data=
+=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C06ef125868854d0adbb708dd031=
+4abc9%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C638670109504368826%7CUnk=
+nown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4z=
+MiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3Dw6d6ccB0xv6DJb0so=
+hKLeKpl78gmQFhrE4j8jCgeBqk%3D&reserved=3D0> =96 https://simplifica.madeira.=
+gov.pt<https://eur02.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2F=
+url.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3V5tUOOdlf=
+zG-2Bg3bEzIn6yos5XnmKpYt6OA2cDVvbtePaBxVPJ_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-=
+2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJRcZdHrOzZXG6tJ=
+Foz5pBbgK-2BzUMkxpI-2FVgMBMM0XJdxwEKoHb7aEGMvBQGLrF6VtUjEUaWsgnRcaTXOb1pCp9=
+iYTGljysI44AtUIkNE0VJunHHWh2noE0aKgNgRM-2FZceQ-3D-3D&data=3D05%7C02%7Cjose.=
+mg.ribeiro%40madeira.gov.pt%7C06ef125868854d0adbb708dd0314abc9%7C132d391d4a=
+224529b7a28333ee887410%7C1%7C0%7C638670109504387048%7CUnknown%7CTWFpbGZsb3d=
+8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbC=
+IsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3DqjEDptFDJsQvgN7dZ27%2F0EOxo9im8nk7P=
+0sq6S2ctQo%3D&reserved=3D0>
+
+
+
+--_000_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_
+Content-Type: text/html; charset="Windows-1252"
+Content-ID: <4B6A21F88FCAA34A8B8CF95DA3E4B9C8@eurprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<style type=3D"text/css">
+        /* FONTS */
+        @media screen {
+            @font-face {
+                font-family: 'Lato';
+                font-style: normal;
+                font-weight: 400;
+                src: local('Lato Regular'), local('Lato-Regular'), url(http=
+s://fonts.gstatic.com/s/lato/v11/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55D=
+A.woff) format('woff');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: normal;
+                font-weight: 700;
+                src: local('Lato Bold'), local('Lato-Bold'), url(https://fo=
+nts.gstatic.com/s/lato/v11/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff=
+) format('woff');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: italic;
+                font-weight: 400;
+                src: local('Lato Italic'), local('Lato-Italic'), url(https:=
+//fonts.gstatic.com/s/lato/v11/RYyZNoeFgb0l7W3Vu1aSWOvvDin1pK8aKteLpeZ5c0A.=
+woff) format('woff');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: italic;
+                font-weight: 700;
+                src: local('Lato Bold Italic'), local('Lato-BoldItalic'), u=
+rl(https://fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYELO3LdcAZYWl9Si=
+6vvxL-qU.woff) format('woff');
+            }
+        }
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+        /* RESET STYLES */
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+
+        table {
+            border-collapse: collapse !important;
+        }
+
+        body {
+            height: 100% !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            width: 100% !important;
+        }
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        /* MOBILE STYLES */
+        @media screen and (max-width:600px) {
+            h1 {
+                font-size: 32px !important;
+                line-height: 32px !important;
+            }
+        }
+        /* ANDROID CENTER FIX */
+        div[style*=3D'margin: 16px 0;'] {
+            margin: 0 !important;
+        }
+    </style>
+</head>
+<body style=3D"background-color: #f4f4f4; margin: 0 !important; padding: 0 =
+!important;">
+<div style=3D"display: none; font-size: 1px; color: #fefefe; line-height: 1=
+px; font-family: 'Lato', Helvetica, Arial, sans-serif; max-height: 0px; max=
+-width: 0px; opacity: 0; overflow: hidden;">
+Pedido de assist=EAncia alterado </div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<!-- LOGO -->
+<tbody>
+<tr>
+<td bgcolor=3D"#539be2" align=3D"center"><!--[if (gte mso 9)|(IE)]>
+                <table align=3D'center' border=3D'0' cellspacing=3D'0' cell=
+padding=3D'0' width=3D'600'>
+                <tr>
+                <td align=3D'center' valign=3D'top' width=3D'600'>
+            <![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"padding: 40px 10px 40px 10px;"=
+><a href=3D"https://eur02.safelinks.protection.outlook.com/?url=3Dhttps%3A%=
+2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3V5tP=
+oTljP-2F1O6Cu6C5nixPo36ag0gK4qrMLSM878uJ1vv6T6G9JtLV64l0QD2-2BOH54Q-3D-3Dga=
+ST_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1=
+YwErBnmtoFf4tVs7csmMJWq0hnKPrvczn9-2Fqzlb0L-2BnFxUmfmkLKedY-2FIvli1ghC6sfcH=
+oLHsOUK3xnhyLsIdXPguJCUkZKAmGrBJpXh5-2FWGnUED-2Bsu75dnWSZhSFGLa-2BMN9hcO-2B=
+3vSW0B-2BkzOAq5w-3D-3D&amp;data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.p=
+t%7C06ef125868854d0adbb708dd0314abc9%7C132d391d4a224529b7a28333ee887410%7C1=
+%7C0%7C638670109504298909%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsI=
+lYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%=
+7C%7C&amp;sdata=3D9Z8i7T3wakDRuPM4ltPBEq4pyOc%2BSpBT83n4yZLwbaM%3D&amp;rese=
+rved=3D0" originalsrc=3D"https://url.madeira.gov.pt/ls/click?upn=3Du001.Hnp=
+C1nyGK95i-2F1w35o3V5tPoTljP-2F1O6Cu6C5nixPo36ag0gK4qrMLSM878uJ1vv6T6G9JtLV6=
+4l0QD2-2BOH54Q-3D-3DgaST_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2Fkjrn=
+Kw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJWq0hnKPrvczn9-2Fqzlb0L-2BnFxUmfm=
+kLKedY-2FIvli1ghC6sfcHoLHsOUK3xnhyLsIdXPguJCUkZKAmGrBJpXh5-2FWGnUED-2Bsu75d=
+nWSZhSFGLa-2BMN9hcO-2B3vSW0B-2BkzOAq5w-3D-3D" shash=3D"CACdpFGX6FUFYqMiVvtC=
+KIml/7grayr+nu8NELSIpd7AGC16m8vEGhQIl6HGeOCBpblqBPLkayyYK2dnpquh5fgUSV0/BSC=
+AcmbRC3e4TSiI7q5972j8ztaMUpNkNNTFwgAdJE9PNNIQLy4381+Vcv10zNMxESHH1XczEe/sPb=
+E=3D" target=3D"_blank"><img alt=3D"Governo Regional da Madeira" src=3D"cid=
+:logoGovBw" width=3D"133" height=3D"40" style=3D"display: block; width: 267=
+px; max-width: 267px; min-width: 80px; font-family: 'Lato', Helvetica, Aria=
+l, sans-serif; color: #ffffff; font-size: 18px;" border=3D"0">
+</a></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+            <![endif]--></td>
+</tr>
+<tr>
+<td bgcolor=3D"#539be2" align=3D"center" style=3D"padding: 0px 10px 0px 10p=
+x;"><!--[if (gte mso 9)|(IE)]>
+                <table align=3D'center' border=3D'0' cellspacing=3D'0' cell=
+padding=3D'0' width=3D'600'>
+                <tr>
+                <td align=3D'center' valign=3D'top' width=3D'600'>
+            <![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<tbody>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"center" valign=3D"top" style=3D"padding: 4=
+0px 20px 20px 20px; border-radius: 4px 4px 0px 0px; color: #111111; font-fa=
+mily: 'Lato', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 4=
+00; letter-spacing: 4px; line-height: 48px;">
+<h1 style=3D"font-size: 48px; font-weight: 400; margin: 0;">Pedido de assis=
+t=EAncia</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+            <![endif]--></td>
+</tr>
+<tr>
+<td bgcolor=3D"#f4f4f4" align=3D"center" style=3D"padding: 0px 10px 0px 10p=
+x;"><!--[if (gte mso 9)|(IE)]>
+                <table align=3D'center' border=3D'0' cellspacing=3D'0' cell=
+padding=3D'0' width=3D'600'>
+                <tr>
+                <td align=3D'center' valign=3D'top' width=3D'600'>
+            <![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<!-- COPY -->
+<tbody>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"left" style=3D"padding: 20px 30px 40px 30p=
+x; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-=
+size: 18px; font-weight: 400; line-height: 25px;">
+<p>Caro(a) Jos=E9 Micael Gon=E7alves Ribeiro, </p>
+<p>Vimos inform=E1-lo que o seu pedido com a descri=E7=E3o: </p>
+<p><small>O =C9lio Javier de Agrela de Sousa (estagi=E1rio) j=E1 terminou o=
+ seu est=E1gio. Ele tinha o voip TAG000063973 - GRP 2603P =96 MAC: c074ad6d=
+128a com a extens=E3o voip. 459084 Entretanto recebemos um novo estagi=E1ri=
+o, Jos=E9 Micael Gon=E7alves Ribeiro com o emial:
+ jose.mg.ribeiro@madeira.gov.pt. Por favor atribuir a ext. voip do =C9lio S=
+ousa para o Micael Ribeiro</small>
+</p>
+<p>sofreu uma interven=E7=E3o. Para acompanhar o seu estado, por favor cliq=
+ue no bot=E3o seguinte.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"left">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"center" style=3D"padding: 20px 30px 60px 3=
+0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"border-radius: 3px;" bgcolor=3D"#539be2"><a h=
+ref=3D"https://eur02.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2F=
+url.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3V5tPoTljP=
+-2F1O6Cu6C5nixPo36ag0gK4qrMLSM878uJ1vv1Fp-2FsxxMAhNtJNrXFDhdotdO9qKSUAvcOWj=
+dcRUZ-2F-2FKMUR7lnYuwmQkwKLLzkRjKMXOP7JiIg4tNBJdDenqNJw-3D-3D85-i_snLzOPMCx=
+m-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4=
+tVs7csmMJYIBC7LfYVbAaYJWRPBmff3mkYCxEBTACwPM2yFSlpOPIq-2FP6FZHtxK4W-2FuHKmu=
+XWJDuPxAqjFgi865PXaLFFrm2rTo4qPxRBX8uEwlKR53yIrm5-2FH-2BtpqDkYD8JigPOXA-3D-=
+3D&amp;data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C06ef125868854d0a=
+dbb708dd0314abc9%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C6386701095043=
+46657%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsI=
+lAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3Ddt=
+Yxunoi05og4SDxIs2BHDKXabOzULzFLmqO9KNEwC4%3D&amp;reserved=3D0" originalsrc=
+=3D"https://url.madeira.gov.pt/ls/click?upn=3Du001.HnpC1nyGK95i-2F1w35o3V5t=
+PoTljP-2F1O6Cu6C5nixPo36ag0gK4qrMLSM878uJ1vv1Fp-2FsxxMAhNtJNrXFDhdotdO9qKSU=
+AvcOWjdcRUZ-2F-2FKMUR7lnYuwmQkwKLLzkRjKMXOP7JiIg4tNBJdDenqNJw-3D-3D85-i_snL=
+zOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBn=
+mtoFf4tVs7csmMJYIBC7LfYVbAaYJWRPBmff3mkYCxEBTACwPM2yFSlpOPIq-2FP6FZHtxK4W-2=
+FuHKmuXWJDuPxAqjFgi865PXaLFFrm2rTo4qPxRBX8uEwlKR53yIrm5-2FH-2BtpqDkYD8JigPO=
+XA-3D-3D" shash=3D"o/zlVaIIGjnHCuYFnsPdFebDUI6hbEf70atZ40rE+RLelevlghSZj1LE=
++udouhn/fs66DwwWL1LAI2I+9PX+likaSlK5fnNWvPXT05ynbuC8ZViaXK3B+4X53zFCbawY33H=
+CUep4ycEQ8iRe/01U3lJDW1/tuoDyfBxCIvJjxMY=3D" target=3D"_blank" style=3D"fon=
+t-size: 20px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; te=
+xt-decoration: none; color: #ffffff; text-decoration: none; padding: 15px 2=
+5px; border-radius: 2px; border: 1px solid #539be2; display: inline-block;"=
+>Consultar
+ estado </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"left" style=3D"padding: 20px 30px 40px 30p=
+x; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-=
+size: 18px; font-weight: 400; line-height: 25px;">
+<br>
+<p>A equipa de assist=EAncia t=E9cnica. </p>
+<br>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+            <![endif]--></td>
+</tr>
+<tr>
+<td bgcolor=3D"#f4f4f4" align=3D"center" style=3D"padding: 0px 10px 0px 10p=
+x;"><!--[if (gte mso 9)|(IE)]>
+                <table align=3D'center' border=3D'0' cellspacing=3D'0' cell=
+padding=3D'0' width=3D'600'>
+                <tr>
+                <td align=3D'center' valign=3D'top' width=3D'600'>
+            <![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<!-- NAVIGATION --><!-- ADDRESS -->
+<tbody>
+<tr>
+<td bgcolor=3D"#f4f4f4" align=3D"left" style=3D"padding: 0px 30px 30px 30px=
+; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-s=
+ize: 14px; font-weight: 400; line-height: 18px;">
+<p style=3D"margin: 0;"><b>SRF - Secretaria Regional das Finan=E7as</b><br>
+<b>Dire=E7=E3o Regional de Inform=E1tica</b><br>
+Azinhaga do Po=E7o Barral, n.=BA 23<br>
+Edif=EDcio Funchal Business Center, Piso 1A<br>
+9000-638 =96 Funchal - Madeira <br>
+Tel.: +351 291 145 190<br>
+<a href=3D"mailto:helpdesk.dri@madeira.gov.pt">helpdesk.dri@madeira.gov.pt<=
+/a><br>
+</p>
+<p><a href=3D"https://eur02.safelinks.protection.outlook.com/?url=3Dhttps%3=
+A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3V5=
+lkXT8C-2BSq-2BBVcvdq3W7gyPKpG7OF02Ga8TJQVabMLRQ2SJO_snLzOPMCxm-2BIHQFFvoJhA=
+xD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJWgAFR=
+aNTTkByQWIHb-2B0me4nMWB6w883yPGJsbIcTmFXc14uywK3x88BYuI00UQFuga02AFqWDvxeLy=
+ti-2FPPteBYSFfBRn4onz-2FEDRNt59cHA01mcQYzsp5s-2FPd8r8VfpQ-3D-3D&amp;data=3D=
+05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C06ef125868854d0adbb708dd0314ab=
+c9%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C638670109504368826%7CUnknow=
+n%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiI=
+sIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3Dw6d6ccB0xv6DJb0s=
+ohKLeKpl78gmQFhrE4j8jCgeBqk%3D&amp;reserved=3D0" originalsrc=3D"https://url=
+.madeira.gov.pt/ls/click?upn=3Du001.HnpC1nyGK95i-2F1w35o3V5lkXT8C-2BSq-2BBV=
+cvdq3W7gyPKpG7OF02Ga8TJQVabMLRQ2SJO_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w=
+0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJWgAFRaNTTkByQWIHb-2B0=
+me4nMWB6w883yPGJsbIcTmFXc14uywK3x88BYuI00UQFuga02AFqWDvxeLyti-2FPPteBYSFfBR=
+n4onz-2FEDRNt59cHA01mcQYzsp5s-2FPd8r8VfpQ-3D-3D" shash=3D"Uk0DLnRp7HWKEoSNY=
+2EXKE3t7UYruETmA3SHjeHXj4nJEofiah+BDdsBa8hqi3COohW4yr9bJ5Eko06qXGmgOVLSC834=
+N1TlGrGCKHOgPtlL3kxMwuSmJAdlCnYBAiypMXOLc9jqubrmne+ItJefqDEGpYzXaQOTGfpEh+x=
+vKf0=3D">www.madeira.gov.pt</a>
+ =96 <a href=3D"https://eur02.safelinks.protection.outlook.com/?url=3Dhttps=
+%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3=
+V5tUOOdlfzG-2Bg3bEzIn6yos5XnmKpYt6OA2cDVvbtePaBxVPJ_snLzOPMCxm-2BIHQFFvoJhA=
+xD3zTb8y-2F9sW3w0CI6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJRcZdH=
+rOzZXG6tJFoz5pBbgK-2BzUMkxpI-2FVgMBMM0XJdxwEKoHb7aEGMvBQGLrF6VtUjEUaWsgnRca=
+TXOb1pCp9iYTGljysI44AtUIkNE0VJunHHWh2noE0aKgNgRM-2FZceQ-3D-3D&amp;data=3D05=
+%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C06ef125868854d0adbb708dd0314abc9=
+%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C638670109504387048%7CUnknown%=
+7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsI=
+kFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3DqjEDptFDJsQvgN7dZ2=
+7%2F0EOxo9im8nk7P0sq6S2ctQo%3D&amp;reserved=3D0" originalsrc=3D"https://url=
+.madeira.gov.pt/ls/click?upn=3Du001.HnpC1nyGK95i-2F1w35o3V5tUOOdlfzG-2Bg3bE=
+zIn6yos5XnmKpYt6OA2cDVvbtePaBxVPJ_snLzOPMCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0C=
+I6-2FkjrnKw5WHkQUvI9FvNXusz-2B1YwErBnmtoFf4tVs7csmMJRcZdHrOzZXG6tJFoz5pBbgK=
+-2BzUMkxpI-2FVgMBMM0XJdxwEKoHb7aEGMvBQGLrF6VtUjEUaWsgnRcaTXOb1pCp9iYTGljysI=
+44AtUIkNE0VJunHHWh2noE0aKgNgRM-2FZceQ-3D-3D" shash=3D"RYU+cPiECIiNxz3zFOjMh=
+hXG5Sh3dsF33IZErPC+yNfnThjV9CTEk99qJKVp26T6lsm95QML6eaSn9zlqbXEKjGduavjf/nQ=
+cETHWPDYY0+OdN1XUfPiWstri/Og5mptFqoFGMU/Q9vWr4QQUBfrRbv4O3L1LYIKlaKGOVBVOYI=
+=3D">
+https://simplifica.madeira.gov.pt</a> </p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+            <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<img src=3D"https://url.madeira.gov.pt/wf/open?upn=3Du001.mW46MCjIe2f2WoTOZ=
+LT4mygdMcMTNruJcAjIFbcbga-2BzE0owJFsgPk-2FA7JktKf29bdmeHZNzMyFE5jOgYmg-2FnL=
+4V9MLCquJ3LMHu2oxw5Jpe7SGO-2BxWUjWZulSr1sFnt6AUaOUrrNMzfIH-2BokGEAwBGSlD7ab=
+V7uxS-2BjnmYTPIVIC0dwKbjWq9AA-2BLzBDBiUczUR05YC10siMjgYMs14BexmEhXVSolEdcVC=
+-2FzRcBV8-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"heigh=
+t:1px !important;width:1px !important;border-width:0 !important;margin-top:=
+0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-le=
+ft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddin=
+g-right:0 !important;padding-left:0 !important;">
+</body>
+</html>
+
+--_000_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_--
+
+--_004_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_
+Content-Type: image/png; name="logoGovBw"
+Content-Description: logoGovBw
+Content-Disposition: inline; filename="logoGovBw"; size=2876;
+	creation-date="Tue, 12 Nov 2024 12:22:30 GMT";
+	modification-date="Tue, 07 Jan 2025 15:19:35 GMT"
+Content-ID: <logoGovBw>
+Content-Transfer-Encoding: base64
+
+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
+PODv3/8BrPo4oR5VRTQAAAAASUVORK5CYII=
+
+--_004_yLIBauHqRFRjzdo5Ye19Ageopodismtpd2_--

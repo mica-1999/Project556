@@ -1,0 +1,464 @@
+Received: from PAVPR08MB9884.eurprd08.prod.outlook.com (2603:10a6:102:32f::22)
+ by AS2PR08MB9716.eurprd08.prod.outlook.com with HTTPS; Thu, 7 Nov 2024
+ 14:43:51 +0000
+Received: from AS9PR04CA0133.eurprd04.prod.outlook.com (2603:10a6:20b:48a::6)
+ by PAVPR08MB9884.eurprd08.prod.outlook.com (2603:10a6:102:32f::22) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8137.19; Thu, 7 Nov
+ 2024 14:43:49 +0000
+Received: from AMS0EPF0000019D.eurprd05.prod.outlook.com
+ (2603:10a6:20b:48a:cafe::f) by AS9PR04CA0133.outlook.office365.com
+ (2603:10a6:20b:48a::6) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8137.20 via Frontend
+ Transport; Thu, 7 Nov 2024 14:43:49 +0000
+Received: from wrqvzxsw.outbound-mail.sendgrid.net (149.72.234.105) by
+ AMS0EPF0000019D.mail.protection.outlook.com (10.167.16.249) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8137.17
+ via Frontend Transport; Thu, 7 Nov 2024 14:43:48 +0000
+Received: by recvd-5577bcb48c-8s6s4 with SMTP id recvd-5577bcb48c-8s6s4-1-672CD223-A
+	2024-11-07 14:43:47.124292498 +0000 UTC m=+4826823.305660912
+Received: from OTM3MTUwNg (unknown)
+	by geopod-ismtpd-canary-0 (SG) with HTTP
+	id HO3s38f6RES3r3zxA_tfKg
+	Thu, 07 Nov 2024 14:43:47.052 +0000 (UTC)
+From: SMTP.Helpdesk.DRI <smtp.helpdesk@madeira.gov.pt>
+To: =?Windows-1252?Q?Jos=E9_Micael_Gon=E7alves_Ribeiro?=
+	<jose.mg.ribeiro@madeira.gov.pt>
+Subject: =?Windows-1252?Q?Pedido_de_assist=EAncia:_Aberto?=
+Thread-Topic: =?Windows-1252?Q?Pedido_de_assist=EAncia:_Aberto?=
+Thread-Index: AQHbMSN2VVx12FXckUKh3V1NJKxIdg==
+Date: Thu, 7 Nov 2024 14:43:47 +0000
+Message-ID: <HO3s38f6RES3r3zxA_tfKg@geopod-ismtpd-canary-0>
+Content-Language: pt-PT
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource:
+ AMS0EPF0000019D.eurprd05.prod.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+ 90180ce6-339e-4c62-4aa9-08dcff3a9700
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+received-spf: Pass (protection.outlook.com: domain of em6757.madeira.gov.pt
+ designates 149.72.234.105 as permitted sender)
+ receiver=protection.outlook.com; client-ip=149.72.234.105;
+ helo=wrqvzxsw.outbound-mail.sendgrid.net; pr=C
+x-ms-exchange-organization-originalclientipaddress: 149.72.234.105
+x-ms-exchange-organization-originalserveripaddress: 10.167.16.249
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+ =?Windows-1252?Q?Qa2La09nQliuhZIkR9VK5qYJFlcLfubQD92w09RNqsCocx572VGrmgJ/?=
+ =?Windows-1252?Q?LumLA22Y8FLUiL+1VLWHYqbrqaU8lw959AAi0PZj1hUlcPIkkOL6ugFa?=
+ =?Windows-1252?Q?YFieXmhQnOAQyKgYXuBrenYvclMxeJ49pZ+LtPo4tjd6Gszt4IJtxlsy?=
+ =?Windows-1252?Q?CDtvwDHdi6asoBYB8SDEZ/ruFo8V9G34jdViNWn+xXuYh2lJ+7w2m479?=
+ =?Windows-1252?Q?cGC9Qips3n/cd0+hL2dgIjwT1S1ktgpR2we1vy8Jx3b1WaC2sw4eKG/l?=
+ =?Windows-1252?Q?8Fu7k4rijte50242S2+QTQGIbKX3r2UXOFCb+l3GMKbP8uDRKMx8S6eA?=
+ =?Windows-1252?Q?T6COUvKhlj2e+sGWZjKs3IC2x9fD1coIe7PO8Exnt9lfLCAuQmmsmAaE?=
+ =?Windows-1252?Q?/rzaY+7MzEv8ZfJ7EzZHqLzcDW7gHUBqVeV/CD+BLDjfYfy/o0oHGTsK?=
+ =?Windows-1252?Q?LrJVxgUh8H1E3KMa1kUbFz0Ef/EBD5867mW5Z/pXWTbIuPcXaawC2cXY?=
+ =?Windows-1252?Q?2r7pVX5Wsk4x5vLzRmYikqtMeR+qpnjJLHMOWdjJaKVomtW6cGqNLYKY?=
+ =?Windows-1252?Q?bHW7KY6amSprvBlEjnxNg3lNxRi3ZV+ZlhJ7ILOgW0MskQiXjeeCkXZD?=
+ =?Windows-1252?Q?Z02KImmEJDaVW/heWpSWf9CPjnTMtteLSOOfO3RT8gGOUbiw3wEJXTTh?=
+ =?Windows-1252?Q?m5ULjGfLJoi6ppiqee8yklS+bbvTv5376hK1j8MW2U/Dlnalj2VZYW8s?=
+ =?Windows-1252?Q?9i2f4ideSISiGd+PUwLpyqZThhIEd4g845W5e00G9b1wMITwstsvdg5b?=
+ =?Windows-1252?Q?eggmhs/gL5JIshNyiPYdweiXNs5NyxVj7ExZBWBQoZdOu4Djvf9vuRhz?=
+ =?Windows-1252?Q?43T/SbgvnsaJBEfE6cSVm9dId+J+3DJR3Q3gPO8cWrNW8uHEIysqYHKm?=
+ =?Windows-1252?Q?8UKYpcpz0q8pgeoWFW1CA7vrHs7B0MUQmduvwX/WPW2SuDJ6B1VzDw5d?=
+ =?Windows-1252?Q?PsHxmJEyAgnemgQ8ZVFT885H8ozjQav/8MHgbLGOLODn1K1ZLOeFuXWL?=
+ =?Windows-1252?Q?Im0XukzxPvfCN8Wyz2IEzmCq+WZvBZzY/Q8Ty3xZ8kgA3kUye0WV1Imy?=
+ =?Windows-1252?Q?IEzym0JMqA2ODvC00Y+7Yhm45r03vr7OtMs1ckyWZ+ip49iUCpldQtMX?=
+ =?Windows-1252?Q?rC/ft2qDBtuI2G0OaC2k7gpFafDJyUqUg5wDiCJTrFmCJmgp0rTeCKdh?=
+ =?Windows-1252?Q?dyUoOF95QxdgJo3d03encP6CyOkZDgOi7M6RBee2Vn6nSyyX2nNKALkg?=
+ =?Windows-1252?Q?j49AXPHQ0MPYO4UTZdR7bSrPCrpFkbZMrsuegbZL2lY24dbitGWo38JB?=
+ =?Windows-1252?Q?FQF0VY1LtfDst53Myh6F1kXbbDxwYPa1jWY=3D?=
+Content-Type: multipart/related;
+	boundary="_004_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_004_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_
+Content-Type: multipart/alternative;
+	boundary="_000_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_"
+
+--_000_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Pedido de assist=EAncia n=BA: 89853
+
+Aberto em: 11/7/2024 2:43:46 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Pedido de material de inform=E1tica Exmos. Senhores A pedido do S=
+r. Diretor Regional de Veterin=E1ria e Bem-Estar Animal, Dr. Daniel Bravo d=
+a Mata, e estamos a alocar novos funcion=E1rios nas nossas instala=E7=F5es,=
+ solicitamos o seguinte material inform=E1tico: 2 Switchs; 1 cabo com extre=
+midades VGA. Com os melhores cumprimentos, GABINETE DE APOIO AO DIRETOR REG=
+IONAL drv@madeira.gov.pt
+
+
+Local de trabalho: Dire=E7=E3o Regional de Agricultura e Desenvolvimento Ru=
+ral
+
+Funcion=E1rio: Daniel Alexandre Maia Bravo da Mata
+
+Contactos:
+
+Extensao: daniel.mata@madeira.gov.pt
+
+Localiza=E7=E3o: Avenida do Mar e das Comunidades Madeirenses, n.=BA23 , 2=
+=BA andar
+
+Email: daniel.mata@madeira.gov.pt
+
+ExtensaoVOIP: 458345
+
+TelefoneFixo: 291145465
+
+
+Equipamentos Associados: ----
+
+T=E9cnicos:
+
+Recebido por: Ligia Maria Vasconcelos Gouveia
+
+T=E9cnico respons=E1vel: Antonio Luz Nunes Castro
+
+T=E9cnicos associados:Ana Patricia Simao dos Santos Maltez; Antonio Luz Nun=
+es Castro; Catia Patricia Sousa Goncalves Ornelas; Dinon Sandro Mendon=E7a =
+Rocha; Diogo S=E1; Duarte Costa Nobrega; Dulce Maria Conceicao Camara e Sil=
+va; Edgar Marques Almada; Fernando Manuel Brazao Drumond; Filipe Gomes; Hug=
+o Miguel Ribeiro Mota de Aguiar; Jethferandre Agostinho Mendes Hernandes; J=
+o=E3o Carlos de Jesus Gon=E7alves; Jos=E9 Micael Gon=E7alves Ribeiro; Ligia=
+ Maria Vasconcelos Gouveia; Lisandro Henrique Gouveia de Olim Marote; Lu=ED=
+sa Andreia Fernandes C=E2mara; Marco R=FAben de Freitas Fernandes; Maria Ma=
+nuela Alves de Pao; Nelson Afonso Luis Chaves; Ricardina Paula Castro Abreu=
+ Luiz; Rita Maria Ferreira de Sousa; S=E9rgio Gon=E7alo Nunes Silva
+
+Interven=E7=F5es:
+________________________________
+[cid:logoGovBw]         SRF - Secretaria Regional das Finan=E7as
+Dire=E7=E3o Regional de Inform=E1tica
+Azinhaga do Po=E7o Barral, n.=BA 23
+Edif=EDcio Funchal Business Center, Piso 1A
+9000-638 =96 Funchal - Madeira
+Tel.: +351 291 145 190
+helpdesk.dri@madeira.gov.pt<mailto:helpdesk.dri@madeira.gov.pt>
+
+www.madeira.gov.pt<https://eur02.safelinks.protection.outlook.com/?url=3Dht=
+tps%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w3=
+5o3V5lkXT8C-2BSq-2BBVcvdq3W7gyPKpG7OF02Ga8TJQVabMLRQAsGZ_snLzOPMCxm-2BIHQFF=
+voJhAxD3zTb8y-2F9sW3w0CI6-2FkjpEC-2FQqXhOT4lh7E1-2FUpNh1KN7KyFWai9SS9JGJTzN=
+byiGVqLazU72QVzOabIiYmU-2F8-2B49wxqHYWZT0lFmRcNvLw-2BgeQ7hp5ypxZs-2BSuOtkFM=
+ahQpSGmtAP8-2FLvjQ39N1x3vxWJCq5RSK2uVE1rCxqYnQyjVCsEeqf-2BX4fnsxWzYQkV8igne=
+7-2F0JpKq97oJ72I-3D&data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C901=
+80ce6339e4c624aa908dcff3a9700%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C=
+638665874321027619%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw=
+LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&s=
+data=3DEIEvF%2F61S0yjMtKIqBoFgIy40xFpSTWdxclgv5LGy7M%3D&reserved=3D0> =96 h=
+ttps://simplifica.madeira.gov.pt<https://eur02.safelinks.protection.outlook=
+.com/?url=3Dhttps%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC=
+1nyGK95i-2F1w35o3V5tUOOdlfzG-2Bg3bEzIn6yos5XnmKpYt6OA2cDVvbtePaBym5F_snLzOP=
+MCxm-2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjpEC-2FQqXhOT4lh7E1-2FUpNh1KN7KyFW=
+ai9SS9JGJTzNbysWe3p5J3aBQ0BixTuIrKOl-2FQqKNIMlxgwK-2FGFISrYMUrUo4YDcGl4ruWw=
+KOweR7bcFax7ROxmO-2B9fQfM1WtmFOtXt4ToPIcVWL7rkmLdYdKyXBfLVosJW1M2Ct5BDGQjL-=
+2FYh5FkEf52wfQjwADFukk-3D&data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt=
+%7C90180ce6339e4c624aa908dcff3a9700%7C132d391d4a224529b7a28333ee887410%7C1%=
+7C0%7C638665874321050097%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIl=
+YiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7=
+C%7C&sdata=3Ds3BsD%2FbhSCP5UENG4VO4TnhRPwWqg4kpdgMaC399%2Btw%3D&reserved=3D=
+0>
+
+
+
+--_000_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_
+Content-Type: text/html; charset="Windows-1252"
+Content-ID: <E5635F2B00085C46B40DEB477DFAC9F9@eurprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style>
+            p{
+                margin-top: 0px;
+                margin-bottom: 0px;
+            }
+        </style>
+</head>
+<body>
+<h3>Pedido de assist=EAncia n=BA: 89853</h3>
+<p><b>Aberto em:</b> 11/7/2024 2:43:46 PM</p>
+<p><b>Estado atual:</b> Aberto</p>
+<p><b>Prioridade:</b> Media</p>
+<p style=3D"margin-bottom: 20px"><b>Problema:</b> Pedido de material de inf=
+orm=E1tica Exmos. Senhores A pedido do Sr. Diretor Regional de Veterin=E1ri=
+a e Bem-Estar Animal, Dr. Daniel Bravo da Mata, e estamos a alocar novos fu=
+ncion=E1rios nas nossas instala=E7=F5es, solicitamos
+ o seguinte material inform=E1tico: 2 Switchs; 1 cabo com extremidades VGA.=
+ Com os melhores cumprimentos, GABINETE DE APOIO AO DIRETOR REGIONAL drv@ma=
+deira.gov.pt
+</p>
+<br>
+<p><b>Local de trabalho:</b> Dire=E7=E3o Regional de Agricultura e Desenvol=
+vimento Rural</p>
+<p><b>Funcion=E1rio:</b> Daniel Alexandre Maia Bravo da Mata</p>
+<p><b>Contactos:</b> </p>
+<div>
+<p>Extensao: daniel.mata@madeira.gov.pt</p>
+<p>Localiza=E7=E3o: Avenida do Mar e das Comunidades Madeirenses, n.=BA23 ,=
+ 2=BA andar</p>
+<p>Email: daniel.mata@madeira.gov.pt</p>
+<p>ExtensaoVOIP: 458345</p>
+<p>TelefoneFixo: 291145465</p>
+</div>
+<p></p>
+<br>
+<p><b>Equipamentos Associados:</b> ----</p>
+<br>
+<h4>T=E9cnicos:</h4>
+<p><b>Recebido por:</b> Ligia Maria Vasconcelos Gouveia</p>
+<p><b>T=E9cnico respons=E1vel:</b> Antonio Luz Nunes Castro</p>
+<p><b>T=E9cnicos associados:</b>Ana Patricia Simao dos Santos Maltez; Anton=
+io Luz Nunes Castro; Catia Patricia Sousa Goncalves Ornelas; Dinon Sandro M=
+endon=E7a Rocha; Diogo S=E1; Duarte Costa Nobrega; Dulce Maria Conceicao Ca=
+mara e Silva; Edgar Marques Almada; Fernando
+ Manuel Brazao Drumond; Filipe Gomes; Hugo Miguel Ribeiro Mota de Aguiar; J=
+ethferandre Agostinho Mendes Hernandes; Jo=E3o Carlos de Jesus Gon=E7alves;=
+ Jos=E9 Micael Gon=E7alves Ribeiro; Ligia Maria Vasconcelos Gouveia; Lisand=
+ro Henrique Gouveia de Olim Marote; Lu=EDsa
+ Andreia Fernandes C=E2mara; Marco R=FAben de Freitas Fernandes; Maria Manu=
+ela Alves de Pao; Nelson Afonso Luis Chaves; Ricardina Paula Castro Abreu L=
+uiz; Rita Maria Ferreira de Sousa; S=E9rgio Gon=E7alo Nunes Silva</p>
+<br>
+<h4>Interven=E7=F5es:</h4>
+<hr>
+<div style=3D"margin-top: 20px; position: relative">
+<table border=3D"0" style=3D"font-size: smaller">
+<tbody>
+<tr>
+<td valign=3D"top"><img style=3D"float: left" src=3D"cid:logoGovBw"> </td>
+<td style=3D"padding-left: 20px"><b>SRF - Secretaria Regional das Finan=E7a=
+s</b><br>
+<b>Dire=E7=E3o Regional de Inform=E1tica</b><br>
+Azinhaga do Po=E7o Barral, n.=BA 23<br>
+Edif=EDcio Funchal Business Center, Piso 1A<br>
+9000-638 =96 Funchal - Madeira <br>
+Tel.: +351 291 145 190<br>
+<a href=3D"mailto:helpdesk.dri@madeira.gov.pt">helpdesk.dri@madeira.gov.pt<=
+/a><br>
+<p><a href=3D"https://eur02.safelinks.protection.outlook.com/?url=3Dhttps%3=
+A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3V5=
+lkXT8C-2BSq-2BBVcvdq3W7gyPKpG7OF02Ga8TJQVabMLRQAsGZ_snLzOPMCxm-2BIHQFFvoJhA=
+xD3zTb8y-2F9sW3w0CI6-2FkjpEC-2FQqXhOT4lh7E1-2FUpNh1KN7KyFWai9SS9JGJTzNbyiGV=
+qLazU72QVzOabIiYmU-2F8-2B49wxqHYWZT0lFmRcNvLw-2BgeQ7hp5ypxZs-2BSuOtkFMahQpS=
+GmtAP8-2FLvjQ39N1x3vxWJCq5RSK2uVE1rCxqYnQyjVCsEeqf-2BX4fnsxWzYQkV8igne7-2F0=
+JpKq97oJ72I-3D&amp;data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C9018=
+0ce6339e4c624aa908dcff3a9700%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C6=
+38665874321027619%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwL=
+jAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&am=
+p;sdata=3DEIEvF%2F61S0yjMtKIqBoFgIy40xFpSTWdxclgv5LGy7M%3D&amp;reserved=3D0=
+" originalsrc=3D"https://url.madeira.gov.pt/ls/click?upn=3Du001.HnpC1nyGK95=
+i-2F1w35o3V5lkXT8C-2BSq-2BBVcvdq3W7gyPKpG7OF02Ga8TJQVabMLRQAsGZ_snLzOPMCxm-=
+2BIHQFFvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjpEC-2FQqXhOT4lh7E1-2FUpNh1KN7KyFWai9SS=
+9JGJTzNbyiGVqLazU72QVzOabIiYmU-2F8-2B49wxqHYWZT0lFmRcNvLw-2BgeQ7hp5ypxZs-2B=
+SuOtkFMahQpSGmtAP8-2FLvjQ39N1x3vxWJCq5RSK2uVE1rCxqYnQyjVCsEeqf-2BX4fnsxWzYQ=
+kV8igne7-2F0JpKq97oJ72I-3D" shash=3D"KyYciVfmNXkQk+KlhZ3XOfm9u9FdP5Z6NvL1jf=
+HABcUoE+rsCiNT5jrMT1B7t6vGN40Wi0qHHkGmjRI6FHFNOzNNYByNzykzek8TBR77B/BAMRhjk=
+C33jkvjK2iG3SBsW2owMYBrZ2Y/u8OK3MA4if2Hh5hZW+y8nx/wo/MdHzI=3D">www.madeira.=
+gov.pt</a>
+ =96 <a href=3D"https://eur02.safelinks.protection.outlook.com/?url=3Dhttps=
+%3A%2F%2Furl.madeira.gov.pt%2Fls%2Fclick%3Fupn%3Du001.HnpC1nyGK95i-2F1w35o3=
+V5tUOOdlfzG-2Bg3bEzIn6yos5XnmKpYt6OA2cDVvbtePaBym5F_snLzOPMCxm-2BIHQFFvoJhA=
+xD3zTb8y-2F9sW3w0CI6-2FkjpEC-2FQqXhOT4lh7E1-2FUpNh1KN7KyFWai9SS9JGJTzNbysWe=
+3p5J3aBQ0BixTuIrKOl-2FQqKNIMlxgwK-2FGFISrYMUrUo4YDcGl4ruWwKOweR7bcFax7ROxmO=
+-2B9fQfM1WtmFOtXt4ToPIcVWL7rkmLdYdKyXBfLVosJW1M2Ct5BDGQjL-2FYh5FkEf52wfQjwA=
+DFukk-3D&amp;data=3D05%7C02%7Cjose.mg.ribeiro%40madeira.gov.pt%7C90180ce633=
+9e4c624aa908dcff3a9700%7C132d391d4a224529b7a28333ee887410%7C1%7C0%7C6386658=
+74321050097%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDA=
+wMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdat=
+a=3Ds3BsD%2FbhSCP5UENG4VO4TnhRPwWqg4kpdgMaC399%2Btw%3D&amp;reserved=3D0" or=
+iginalsrc=3D"https://url.madeira.gov.pt/ls/click?upn=3Du001.HnpC1nyGK95i-2F=
+1w35o3V5tUOOdlfzG-2Bg3bEzIn6yos5XnmKpYt6OA2cDVvbtePaBym5F_snLzOPMCxm-2BIHQF=
+FvoJhAxD3zTb8y-2F9sW3w0CI6-2FkjpEC-2FQqXhOT4lh7E1-2FUpNh1KN7KyFWai9SS9JGJTz=
+NbysWe3p5J3aBQ0BixTuIrKOl-2FQqKNIMlxgwK-2FGFISrYMUrUo4YDcGl4ruWwKOweR7bcFax=
+7ROxmO-2B9fQfM1WtmFOtXt4ToPIcVWL7rkmLdYdKyXBfLVosJW1M2Ct5BDGQjL-2FYh5FkEf52=
+wfQjwADFukk-3D" shash=3D"wJd7CWHfGyZAc19caT/j7LnaZtkAlFYLnqW5XivKpntTiCDIwE=
+9SIA5taxP+LZX2bl3zKSMd5sG+Ot2RZKAJu9bGtoQlNCMDlSB91UBTJtnp0dx2l6GHUaB98tDt4=
+NmnjagcQyLDZugL7hxJPOzsCiyOG7XsqILCRFpq3Hj87ns=3D">
+https://simplifica.madeira.gov.pt</a> </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img src=3D"https://url.madeira.gov.pt/wf/open?upn=3Du001.mW46MCjIe2f2WoTOZ=
+LT4mygdMcMTNruJcAjIFbcbga8uEyrZ07C4W0OKcg4KmSCMIVWbakf-2FMqXnTl0hP4MqEHsH1X=
+VPw3DcTCJPy7sdgoADrFFPogtvq6ay794WuVQ9OoXHQewTDeFyWiNZmgHAY7ZiyTAVO77lhLAfM=
+-2FAVOgRVccOer-2B5-2Fl8T0Gg7yruqdUjv7I1cIlS4vHdbgUcFmGRL6hKzjWT3f-2BC0FEEm8=
+LYI-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px =
+!important;width:1px !important;border-width:0 !important;margin-top:0 !imp=
+ortant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !=
+important;padding-top:0 !important;padding-bottom:0 !important;padding-righ=
+t:0 !important;padding-left:0 !important;">
+</body>
+</html>
+
+--_000_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_--
+
+--_004_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_
+Content-Type: image/png; name="logoGovBw"
+Content-Description: logoGovBw
+Content-Disposition: inline; filename="logoGovBw"; size=7907;
+	creation-date="Thu, 07 Nov 2024 14:43:52 GMT";
+	modification-date="Tue, 07 Jan 2025 15:19:41 GMT"
+Content-ID: <logoGovBw>
+Content-Transfer-Encoding: base64
+
+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
+
+--_004_HO3s38f6RES3r3zxAtfKggeopodismtpdcanary0_--
