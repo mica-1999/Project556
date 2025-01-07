@@ -18,18 +18,18 @@ def authenticate_gmail():
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+    if os.path.exists('credentials/token.json'):
+        creds = Credentials.from_authorized_user_file('credentials/token.json', SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
+                'credentials/credentials-gmail.json', SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
-        with open('token.json', 'w') as token:
+        with open('credentials/token.json', 'w') as token:
             token.write(creds.to_json())
     return creds
 
@@ -38,7 +38,7 @@ def read_emails(service):
     results = service.users().messages().list(userId='me', labelIds=['INBOX']).execute()
     messages = results.get('messages', [])
 
-    with open("reademails.txt", "w", encoding="utf-8") as f:
+    with open("Output-Emails/reademails.txt", "w", encoding="utf-8") as f:
         if not messages:
             print('No messages found.')
         else:
@@ -79,7 +79,6 @@ def extract_relevant_body(body):
             if relevant_lines and relevant_lines[-1] != "":
                 relevant_lines.append("")
         relevant_lines.append(line.strip())
-    
     # Remove any leading or trailing empty lines
     while relevant_lines and relevant_lines[0] == "":
         relevant_lines.pop(0)
