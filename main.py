@@ -19,6 +19,8 @@ def authenticate_gmail():
     # created automatically when the authorization flow completes for the first
     # time.
     if os.path.exists('credentials/token.json'):
+        os.remove('credentials/token.json')  # Delete the existing token to force re-authentication
+    if os.path.exists('credentials/token.json'):
         creds = Credentials.from_authorized_user_file('credentials/token.json', SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:

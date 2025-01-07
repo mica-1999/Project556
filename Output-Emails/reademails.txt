@@ -1,0 +1,3007 @@
+Pedido de assistência nº: 90328
+
+Aberto em: 12/2/2024 4:36:23 PM
+
+Estado atual: Concluido
+
+Prioridade: Media
+
+Problema: Temos um ficheiro que integra a base de dados de um dos nossos processos de trabalho mais importantes, ou seja, a Validação Individual, prevista nos termos da Portaria n.º 36/2021, de 18 de fevereiro. A colega responsável por esse trabalho encriptou o ficheiro com uma palavra-passe que disponibilizou, a meu pedido, quando iniciou baixa médica há alguns meses e que funcionou, entretanto. Hoje, porém, a mesma palavra-passe, já não funciona, inviabilizando o acesso à informação indispensável ao serviço. Nessa medida, solicitamos a vossa intervenção no sentido da melhor solução possível para acesso aos dados do referido ficheiro. Aguardo uma vossa resposta, com a maior brevidade possível, por forma a colmatarmos esta necessidade premente do Serviço. ELSA CORREIA DE FREITAS Chefe de Divisão elsa.freitas@madeira.gov.pt
+
+
+Local de trabalho: SRE - Direção Regional de Educação
+
+Funcionário: Elsa Maria Correia de Freitas
+
+Contactos:
+
+Localização: Rua dos Ilhéus, 1-C, 1.º andar
+
+TelefoneFixo: 291 743 142
+
+Localização: Divisão de Formação de Pessoal
+
+Localização: Direção de Serviços de Investigação, Formação e Inovação Educacional
+
+Email: elsa.gomes@madeira.gov.pt
+
+ExtensaoVOIP: 457609
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90505
+
+Aberto em: 12/9/2024 3:26:34 PM
+
+Estado atual: Concluido
+
+Prioridade: Normal
+
+Problema: Anomalia VOIP - Avenida do Mar Boa tarde, Serve o presente para reportar uma anomalia no equipamento informático existente na Divisão de Sistemas de Incentivos – Avenida do Mar, n.º 23, Piso 1. • O VOIP da Dr. ª Cidália Sousa tem apresentando problemas de funcionamento; microfone desliga-se e quando funciona as chamadas tem ruídos. Para mais esclarecimento poderá contactar: Técnico – Cidália Sousa Telefone: 291 145 400 Ext – 456 906 Com os melhores cumprimentos, MANUEL JOSÉ FARIA DE AGUIAR Chefe de Divisão manuel.aguiar@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Maria Cidalia de Sousa
+
+Contactos:
+
+ExtensaoVOIP: 456906
+
+Email: cidalia.sousa@madeira.gov.pt
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23
+
+TelefoneFixo: 291204203
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90568
+
+Aberto em: 12/11/2024 3:46:31 PM
+
+Estado atual: Concluido
+
+Prioridade: Normal
+
+Problema: venho reportar os erros (em anexo) do computador da colega Francisca do Nucleo de Expediente Geral (NEG). Informo que após esses erros a máquina reinicia (tempo de utilização não ultrapassa os 10m para aparecer novamente os erros e ir abaixo). Agradeço a vossa intervenção o mais breve possível, visto que se torna impossível utilizar esta máquina. Com os melhores cumprimentos, Bruno Nunes Assistente Técnico
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Francisca Marques Pontes
+
+Contactos:
+
+Email: francisca.m.pontes@madeira.gov.pt
+
+Localização: Oudinot
+
+ExtensaoVOIP: 458370
+
+
+Equipamentos Associados:
+
+Computador: YM4P182007 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90755
+
+Aberto em: 1/2/2025 9:37:25 AM
+
+Estado atual: Concluido
+
+Prioridade: Normal
+
+Problema: Venho por este meio solicitar que a estagiária Joana Catarina Costa Cardoso, com o email joana.cc.cardoso@madeira.gov.pt, só tenha acesso à Pasta com o nome Joana Cardoso, que se encontra dentro do servidor DRAE > OERAM, e que não tenha acesso às restantes pastas, nomeadamente a pasta "Observatório Educação_RAM" e "Arquivo". Cumprimentos, Carla Vanessa Coutinho Correia Docente
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Carla Vanessa Coutinho Correia
+
+Contactos:
+
+Email: carla.vc.correia@madeira.gov.pt
+
+TelefoneFixo: 291701090
+
+Localização: Estrada Comandante Camacho de Freitas
+
+Localização: Qualificação Profissional
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90777
+
+Aberto em: 1/2/2025 5:09:40 PM
+
+Estado atual: Concluido
+
+Prioridade: Media
+
+Problema: Pedido de pasta partilha nos dados no Servidor (O) Exmos. Senhores, A pedido do Sr. Diretor Regional, Dr. Daniel Bravo da Mata, solicitamos a criação do acesso aos dados do Servidor (O:) dentro da pasta principal da DSDP (pasta O:\DRA\DSDP\ GSA). Pasta – GSA O Técnico Superior que terá acesso a esta pasta como leitura e estrita é: César Baptista de Abreu Temtem - cesar.ba.temtem@madeira.gov.pt Com os melhores cumprimentos, GABINETE DE APOIO AO DIRETOR REGIONAL drv@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Veterinária e Bem-Estar Animal
+
+Funcionário: Daniel Alexandre Maia Bravo da Mata
+
+Contactos:
+
+TelefoneFixo: 291145465
+
+ExtensaoVOIP: 458345
+
+Extensao: daniel.mata@madeira.gov.pt
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23 , 2º andar
+
+Email: @
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90567
+
+Aberto em: 12/11/2024 3:46:18 PM
+
+Estado atual: Cancelado
+
+Prioridade: Normal
+
+Problema: Urgente - Blue Window Boa tarde, venho reportar os erros (em anexo) do computador da colega Francisca do Nucleo de Expediente Geral (NEG). Informo que após esses erros a máquina reinicia (tempo de utilização não ultrapassa os 10m para aparecer novamente os erros e ir abaixo). Agradeço a vossa intervenção o mais breve possível, visto que se torna impossível utilizar esta máquina. Com os melhores cumprimentos, Bruno Nunes Assistente Técnico bruno.ds.nunes@madeira.gov.pt
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Francisca Marques Pontes
+
+Contactos:
+
+Email: francisca.m.pontes@madeira.gov.pt
+
+Localização: Oudinot
+
+ExtensaoVOIP: 458370
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89818
+
+Aberto em: 11/6/2024 11:24:29 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Anormalidade no PC Bom dia Serve o presente email para informar que o PC com que eu trabalho está a dar problemas, ou seja, a barra de ferramentas na parte inferior do monitor desaparece, e para voltar temos que desligar o PC e voltar a ligar e logo depois desaparece outra vez. Uma outra situação é quando trabalho com o excel bloqueia muito. Com os melhores cumprimentos NOÉLIA FERREIRA Assistente Técnica noelia.ferreira@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: NOELIA FERREIRA FERNANDES
+
+Contactos:
+
+Email: noelia.ferreira@madeira.gov.pt
+
+ExtensaoVOIP: 456483
+
+Localização: Avenida do Mar das Comunidades, nº 23 – 1º Andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89834
+
+Aberto em: 11/6/2024 4:21:29 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Erro ao Enviar Email para “formacao.sraa@madeira.gov.pt” Exmos. Senhores, Boa tarde, Ao tentar enviar uma mensagem a partir do endereço de e-mail formacao.sraa@madeira.gov.pt , recebi o retorno infra: Solicito o vosso apoio técnico para identificar e solucionar esta ocorrência. Agradeço antecipadamente a atenção dispensada. Com os melhores cumprimentos, BERNARDO PINTO Coordenador Pedagógico da Formação
+
+
+Local de trabalho: SRAA- Gabinete do Secretário
+
+Funcionário: JOSE BERNARDINO BARROS PINTO
+
+Contactos:
+
+Localização: Vila Passos edifício designado de “Escola”
+
+ExtensaoVOIP: 456807
+
+Email: bernardino.pinto@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89822
+
+Aberto em: 11/6/2024 12:06:26 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Solicitação de ecrã adicional de 24 polegadas Boa tarde, Solicito um ecrã (de 24 pol) adicional para o meu computador (TAG000078036), indo de encontro à oportunidade de melhoria identificada na última auditoria interna externa, uma vez que necessito de comparar muitos relatórios em simultâneo. Antecipadamente grato. Com os melhores cumprimentos, Rodrigo Andrade Laboratório de Metrologia da Madeira | Chefe de Divisão rodrigo.andrade@madeira.gov.pt DIREÇÃO REGIONAL DE ECONOMIA Parque Empresarial da Cancela Edif. do Laboratório de Metrologia da Madeira Telefone: 291 147 105 | Ext. 456116
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: João Rodrigo Oliveira de Castro e Andrade
+
+Contactos:
+
+TelefoneFixo: 291 930 120
+
+Localização: Parque Empresarial da Cancela
+
+ExtensaoVOIP: 456116
+
+Email: rodrigo.andrade@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89853
+
+Aberto em: 11/7/2024 2:43:46 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Pedido de material de informática Exmos. Senhores A pedido do Sr. Diretor Regional de Veterinária e Bem-Estar Animal, Dr. Daniel Bravo da Mata, e estamos a alocar novos funcionários nas nossas instalações, solicitamos o seguinte material informático: 2 Switchs; 1 cabo com extremidades VGA. Com os melhores cumprimentos, GABINETE DE APOIO AO DIRETOR REGIONAL drv@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Daniel Alexandre Maia Bravo da Mata
+
+Contactos:
+
+Extensao: daniel.mata@madeira.gov.pt
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23 , 2º andar
+
+Email: daniel.mata@madeira.gov.pt
+
+ExtensaoVOIP: 458345
+
+TelefoneFixo: 291145465
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89854
+
+Aberto em: 11/7/2024 2:45:03 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Substituição do Rato Bom dia, Agradeço substituição do rato uma vez que o scroll não está a funcionar. Com os melhores cumprimentos IDALINA QUINTAL PESTANA SOUSA Assistente Técnica idalina.sousa@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: IDALINA QUINTAL PESTANA SOUSA
+
+Contactos:
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23
+
+ExtensaoVOIP: 456891
+
+Email: idalina.sousa@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89870
+
+Aberto em: 11/8/2024 9:50:59 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: MONITOR Bom dia, venho por este meio comunicar que o monitor nº de série: AU5A1435018684, TAG: 000028920, passou do colega Ricardo Pita para mim. Com os melhores cumprimentos, FERNANDA MARIA SOARES DA SILVA Coordenadora Especialista fernanda.silva@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Fernanda Maria Soares da Silva
+
+Contactos:
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23 , 2º andar
+
+ExtensaoVOIP: 456885
+
+Email: fernanda.silva@madeira.gov.pt
+
+
+Equipamentos Associados:
+
+Equipamento genérico: AU5A1435018684 - PHILIPS LED 21.5"/2014-Lote 5 - PHILIPS
+==================================================
+
+Pedido de assistência nº: 89877
+
+Aberto em: 11/8/2024 11:19:50 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Solicita-se um novo computador com teclado, ecrã e rato, para substituir o atual, instalado no laboratório de manómetros (TAG000001923) do Laboratório de Metrologia da Madeira. A substituição é fundamental, uma vez que o computador atual é extremamente lento (frequentemente não liga e trava), o que dado o grande volume de verificações de manómetros efetuadas, está a por em causa o respetivo controlo metrológico legal. Antecipadamente grato. Com os melhores cumprimentos, Rodrigo Andrade Laboratório de Metrologia da Madeira | Chefe de Divisão
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Infraestruturas - LMM
+
+Contactos:
+
+Localização: Edifício do Laboratório de Metrologia da Madeira
+
+TelefoneFixo: 291 930 120
+
+Email: @
+
+Localização: Parque Empresarial da Cancela
+
+
+Equipamentos Associados:
+
+Computador: CZC82389QH - HP Compaq dx2400 Microtower - HP
+==================================================
+
+Pedido de assistência nº: 89909
+
+Aberto em: 11/11/2024 11:33:16 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Assunto: FALTA DE SINCRONINAÇÃO DE PARTILHA DE APSTAS Bom dia A pasta ( partilhada) DSAV_PCO no meu computador não integra todos os dados de partilha. A exemplo há documentos a que não consigo aceder a partir do meu computador. Poderiam, por favor, verificar que falha poderá estar a ocorrer? Obrigada. Com os melhores cumprimentos, SÍLVIA VASCONCELOS Técnico Superior silvia.vasconcelos@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: SILVIA MARTINHA VASCONCELOS
+
+Contactos:
+
+Localização: Avenida do MAr - 2º andar
+
+TelefoneFixo: 291 201 790
+
+Email: silvia.vasconcelos@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89918
+
+Aberto em: 11/11/2024 2:28:48 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Substituição de Voip portátil Boa tarde, Considerando a avaria previamente reportada relativa ao voip portátil, e verificando-se a disponibilidade do telefone afeto à Dra. Helena Lima (TAG 64093) que cessou funções na DRPRI solicito, por favor, que o referido equipamento me seja atribuído (Lúcia Carvalho) para exercício de funções. Agradeço a atenção. Melhores cumprimentos LÚCIA CARVALHO lucia.carvalho@madeira.gov.pt
+
+
+Local de trabalho: SRE - DRPRI -Direção Regional de Planeamento Recursos e Infraestruturas
+
+Funcionário: Lúcia Cristina Rocha Carvalho
+
+Contactos:
+
+Email: lucia.carvalho@madeira.gov.pt
+
+TelefoneFixo: 291 214 750
+
+ExtensaoVOIP: 457914
+
+Localização: Rua do Seminário, 8
+
+
+Equipamentos Associados:
+
+Equipamento genérico: 20EZ4DCM906D0EE4 - GRP2603P - Lote 9 - Tipo 3 - GRANDSTREAM
+==================================================
+
+Pedido de assistência nº: 90731
+
+Aberto em: 12/20/2024 10:58:53 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Serve o presente para solicitar apoio para o PC do Dr. José Jorge Gouveia que no momento ficou sem acesso aos servidores e email. TAG 000063124 e TAG 000062751 jose.jn.gouveia@madeira.gov.pt Agradeço desde já a vossa atenção, Com os melhores cumprimentos, SÃO AZEVEDO
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: José Jorge Nunes Gouveia
+
+Contactos:
+
+Email: jorgegouveia@ideram.pt
+
+TelefoneFixo: 291 145 180
+
+ExtensaoVOIP: 458280
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados:
+
+Computador: CCK3071362 - INSYS PROB R5-4650G - Lote 1 - Tipo 1 - INSYS
+==================================================
+
+Pedido de assistência nº: 89918
+
+Aberto em: 11/11/2024 2:28:48 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Substituição de Voip portátil Boa tarde, Considerando a avaria previamente reportada relativa ao voip portátil, e verificando-se a disponibilidade do telefone afeto à Dra. Helena Lima (TAG 64093) que cessou funções na DRPRI solicito, por favor, que o referido equipamento me seja atribuído (Lúcia Carvalho) para exercício de funções. Agradeço a atenção. Melhores cumprimentos LÚCIA CARVALHO lucia.carvalho@madeira.gov.pt
+
+
+Local de trabalho: SRE - DRPRI -Direção Regional de Planeamento Recursos e Infraestruturas
+
+Funcionário: Lúcia Cristina Rocha Carvalho
+
+Contactos:
+
+Email: lucia.carvalho@madeira.gov.pt
+
+TelefoneFixo: 291 214 750
+
+ExtensaoVOIP: 457914
+
+Localização: Rua do Seminário, 8
+
+
+Equipamentos Associados:
+
+Equipamento genérico: 20EZ4DCM906D0EE4 - GRP2603P - Lote 9 - Tipo 3 - GRANDSTREAM
+==================================================
+
+Pedido de assistência nº: 89959
+
+Aberto em: 11/13/2024 11:16:19 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Tendo em conta que, no próximo mês de dezembro, esta Direção Regional irá mudar de instalações, transferindo os serviços da sua sede para o edifício sito no Largo do Phelps, nº 6, Funchal, vimos solicitar a instalação de um equipamento terminal Kelio no piso R/C daquele prédio, de modo a permitir o registo da assiduidade dos trabalhadores desta Direção Regional. Agradecemos antecipadamente a atenção. Com os melhores cumprimentos. DIREÇÃO REGIONAL DE ECONOMIA
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Infraestruturas - Direção Regional da Economia e Transportes
+
+Contactos:
+
+Email: @
+
+Localização: Largo do Phelps, nº 6, Funchal
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89967
+
+Aberto em: 11/13/2024 4:41:44 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Serve o presente para solicitar que seja instalada a impressora ZDesigner GX420t no computador dos seguintes trabalhadores: - José Alveno Bettencourt Pereira; - José Roberto Mata Rosário; - Nádia Marlene Fernandes Gonçalves. Com os melhores cumprimentos, Sara Santos Técnica Superior
+
+
+Local de trabalho: SRITJ - DRT - Direção Regional do Trabalho
+
+Funcionário: Sara Patrícia Rodrigues Santos
+
+Contactos:
+
+Email: sara.santos@madeira.gov.pt
+
+Localização: Rua da Boa Viagem, n.º 36, 3.º andar
+
+Observacoes: Autoridade Regional para as Condições de Trabalho
+
+ExtensaoVOIP: 459187
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89995
+
+Aberto em: 11/15/2024 10:00:10 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Bom dia, a pedido da Colega Rosa Homem de Gouveia, venho por este meio pedir, que seja dado assistencia na maquina das etiquetas, pois foi me comunicado que deixou de imprimir, agradecia a atenção. Muito obrigada. Com os melhores cumprimentos, Lobélia Caetano Rodrigues da Luz
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Rosa Maria Abreu Rebola Homem de Gouveia
+
+Contactos:
+
+Email: rosa.gouveia@madeira.gov.pt
+
+ExtensaoVOIP: 457066
+
+Localização: Rua do Seminário
+
+Email: rosa.gouveia@madeira.gov.pt
+
+ExtensaoVOIP: 457066
+
+Localização: Rua do Seminário
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 89997
+
+Aberto em: 11/15/2024 10:50:57 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Pastas não visíveis Venho por este meio pedir o vosso auxilio no acesso a pastas dentro do servidor DREN no Servidor (O:)—DSE—2. GESTÃO E LOGISTICA que não consigo visualizar, apesar de ter permissão para edição e visualização.
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Maria da Conceição Vieira Sá de Azevedo
+
+Contactos:
+
+Email: conceicao.azevedo@madeira.gov.pt
+
+ExtensaoVOIP: 457520
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90011
+
+Aberto em: 11/18/2024 8:48:31 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Informo que o aparelho telefónico associado á extensão 457520 está avariado. Com os melhores cumprimentos, SÃO AZEVEDO
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Maria da Conceição Vieira Sá de Azevedo
+
+Contactos:
+
+Email: conceicao.azevedo@madeira.gov.pt
+
+ExtensaoVOIP: 457520
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: 20EZ4GBN308F0A85 - GRP2604P - Lote 9 - Tipo 4 - GRANDSTREAM
+==================================================
+
+Pedido de assistência nº: 90013
+
+Aberto em: 11/18/2024 9:13:23 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Não consegue digitalizar documentos na impressora do gabinete
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Ricardo Nuno Vieira Teixeira de Jesus
+
+Contactos:
+
+Localização: Rua do Seminário, n.º 21
+
+ExtensaoVOIP: 457745
+
+Email: ricardo.nvt.jesus@madeira.gov.pt
+
+TelefoneFixo: 291145180
+
+
+Equipamentos Associados:
+
+Computador: YM4P182862 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90011
+
+Aberto em: 11/18/2024 8:48:31 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Informo que o aparelho telefónico associado á extensão 457520 está avariado. Com os melhores cumprimentos, SÃO AZEVEDO
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Maria da Conceição Vieira Sá de Azevedo
+
+Contactos:
+
+Email: conceicao.azevedo@madeira.gov.pt
+
+ExtensaoVOIP: 457520
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: 20EZ4GBN308F0A85 - GRP2604P - Lote 9 - Tipo 4 - GRANDSTREAM
+==================================================
+
+Pedido de assistência nº: 90037
+
+Aberto em: 11/19/2024 10:49:46 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: O monitor que estava ao afeto ao meu computador não está a funcionar, pelo que agradeço a vossa verificação deste assunto Atualmente tenho 2 monitores afetos ao meu computador Agradeço desde já a vossa atenção Com os melhores cumprimentos, António Rodrigues Técnico Superior
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: António José de Freitas Rodrigues
+
+Contactos:
+
+Email: antonio.rodrigues@madeira.gov.pt
+
+Localização: R. do Seminário n.º 21,
+
+TelefoneVOIP: 291 145 180
+
+Email: antonio.rodrigues@madeira.gov.pt
+
+Localização: R. do Seminário n.º 21,
+
+TelefoneVOIP: 291 145 180
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: TAG3191 - syncMaster 225Bw - SAMSUMG
+==================================================
+
+Pedido de assistência nº: 90027
+
+Aberto em: 11/18/2024 12:14:35 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Está a dar problemas no SIC
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Delia Maria Sousa Camacho Correia
+
+Contactos:
+
+Localização: Rua do Seminário
+
+Email: delia.camacho@madeira.gov.pt
+
+ExtensaoVOIP: 457497
+
+ExtensaoVOIP: 457497
+
+Email: delia.camacho@madeira.gov.pt
+
+Localização: Rua do Seminário
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90739
+
+Aberto em: 12/27/2024 9:31:36 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Solicita apoio técnico pois está sem internet. Informam que alguns utilizadores não tem internet nem voip.
+
+
+Local de trabalho: Direção Regional Trabalho
+
+Funcionário: Livia Sisandra da Silva Soares Ferreira
+
+Contactos:
+
+Localização: Rua de João Gago, 4 – 1
+
+Telemovel: 966 450 040
+
+TelefoneFixo: 291 214 780
+
+Email: livia.s.ferreira@madeira.gov.pt
+
+ExtensaoVOIP: 460160
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90040
+
+Aberto em: 11/19/2024 11:17:32 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computador INSYS PROB R5-4650G - Lote 1 - Tipo 1 Fábia Carina Faria Freitas Luís do OERAM BCII em anexo
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Fábia Carina Faria Freitas Luís
+
+Contactos:
+
+TelefoneVOIP: 291145520
+
+Telemovel: 912345017
+
+Email: fabia.cff.luis@madeira.gov.pt
+
+ExtensaoVOIP: 460120
+
+Localização: OERAM - Observatório da Educação da RAM
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: CCK3071543-R - KY1-M389 - Lote 1 - Tipo 1 - INSYS
+EquipamentoGenerico: CCK3071599-T - PC1-K300R - Lote 1 - Tipo 1 - INSYS
+Computador: CCK3071543 - INSYS PROB R5-4650G - Lote 1 - Tipo 1 - INSYS
+EquipamentoGenerico: N6LMQS242062 - Monitor ASUS BE24EQK - Lote 1 -Tipo 1 - ASUS
+==================================================
+
+Pedido de assistência nº: 90042
+
+Aberto em: 11/19/2024 11:27:37 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: FALTA DE ACESSO Á PASTA GABINETE DE APOIO ONDE SE GURDAM AS DIGITALIZAÇÕES Bom dia Exmos Srs. Dia 18/11/2024 ao tentar trabalhar com o digitalizador do gabinete de apoio onde se guardam os documentos que transferimos para o IDOK verefiquei que estava sem acesso ao mesmo, tendo ligado para o nº de apoio que constava do email da DRI o 291145190 tendo sido atendido e explicado a situação foi-me atribuído o nº 1 nas intervenções do dia.Passei o dia de ontem todo sem acesso e hoje conttinuo com o mesmo problema aguardando solução do mesmo pois faz um enorme transtorno. Com os melhores cumprimentos Ricardo Jesus ricardo.nvt.jesus@madeira.gov.pt Secretaria Regional de Equipamentos e Infraestruturas Direção Regional dos Transportes e da Mobilidade Terrestre Direção de Serviços de Gestão | Assistente Técnico Rua do Seminário, n.º 21 9050-022 Funchal Telefone: 291 145 180 | Ext. 457745
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Ricardo Nuno Vieira Teixeira de Jesus
+
+Contactos:
+
+Localização: Rua do Seminário, n.º 21
+
+ExtensaoVOIP: 457745
+
+Email: ricardo.nvt.jesus@madeira.gov.pt
+
+TelefoneFixo: 291145180
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90051
+
+Aberto em: 11/19/2024 2:24:28 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Patilha DRTMT / Drive O Exmos Srs Detetamos que foram retirados da partilha O alguns ficheiros / pastas da DRTMT. A informação que temos é de que a DRI está a trabalhar na partilha. Agradeço no entanto que os respetivos ficheiros posteriormente sejam colocados na mesma partilha e com a mesma estrutura Muito obrigado pela vossa atenção Com os melhores cumprimentos, António Rodrigues Técnico Superior antonio.rodrigues@madeira.gov.pt
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: António José de Freitas Rodrigues
+
+Contactos:
+
+Email: antonio.rodrigues@madeira.gov.pt
+
+Localização: R. do Seminário n.º 21,
+
+TelefoneVOIP: 291 145 180
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90057
+
+Aberto em: 11/19/2024 2:42:32 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Pedido de Monitor Boa tarde, Vimos por este meio perguntar se é possível a cedência de um monitor para o CARAM. Já estiverem ai para concerto os monitores com as referencias: TAG 48803; TAG 36884; TAG 56825 e os mesmos voltaram a avariar. Não sei se é possível voltar a reparar ou se existe a possibilidade de nos fornecerem um monitor. Este monitor é necessário para um PC no qual funciona o relógio de ponto Kélio. Ficamos a aguardar a vossa resposta. Melhores cumprimentos, João Manuel E. Rodrigues Divisão Administrativo-Financeiro
+
+
+Local de trabalho: CARAM-Centro de Abate da Madeira
+
+Funcionário: CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM
+
+Contactos:
+
+TelefoneFixo: 291550220
+
+Localização: Sítio dos Rochões - Santo António da Serra
+
+Localização: 9100 - 265 Santa Cruz
+
+Email: joaorodrgues@caram.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90077
+
+Aberto em: 11/19/2024 5:22:03 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de monitore de 22 polegadas conforme BCII em anexo Elizabeth Vieira Pereira Gonçalves
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Elizabeth Vieira Pereira Gonçalves
+
+Contactos:
+
+Email: goncalvesev@madeira-edu.pt
+
+Localização: Edificio Oudinot
+
+TelefoneFixo: 291 213 273
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90078
+
+Aberto em: 11/19/2024 5:22:45 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de monitores de 22 polegadas conforme BCII em anexo BCII em anexo Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Carina Maria Gouveia Nóbrega
+
+Contactos:
+
+TelefoneFixo: 291 701 090 | Ext. 2043
+
+Email: carina.mg.nobrega@madeira.gov.pt
+
+Localização: Estrada comandante camacho freitas
+
+Localização: OERAM
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90079
+
+Aberto em: 11/19/2024 5:25:02 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de monitores de 22 polegadas conforme BCII em anexo BCII em anexo Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Nuno Xavier Paixão Abreu
+
+Contactos:
+
+Email: nuno.abreu@madeira.gov.pt
+
+Localização: OERAM/Observatório Educação
+
+TelefoneFixo: 291 701 090
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90080
+
+Aberto em: 11/19/2024 5:25:35 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de monitores de 22 polegadas conforme BCII em anexo Carlos Alberto Marques Rosa
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Carlos Alberto Marques Rosa
+
+Contactos:
+
+Extensao: 120
+
+TelefoneFixo: 291701090
+
+Localização: Estrada Comandante Camacho de Freitas
+
+Localização: Qualificação Profissional
+
+Email: carlos.rosa@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90081
+
+Aberto em: 11/19/2024 5:27:18 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de monitores de 22 polegadas conforme BCII em anexo Sara Isabel Arede Freitas Drumond
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Sara Isabel Arede Freitas Drumond
+
+Contactos:
+
+Localização: Estrada Comandante Camacho de Freitas
+
+Localização: 9020-148 Funchal
+
+TelefoneFixo: 291 701090
+
+Email: sara.drumond@madeira.gov.pt
+
+TelefoneFixo: 291104450
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90089
+
+Aberto em: 11/20/2024 9:57:37 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Venho por este meio informar que, desde sexta-feira não conseguimos digitalizar para a pasta geral da DSCO. Com os melhores cumprimentos, SANDRA DA COSTA Assistente Técnica sandra.costa@madeira.gov.pt
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Sandra da Costa
+
+Contactos:
+
+ExtensaoVOIP: 457742
+
+Localização: Rua do Seminário, n.º 21,
+
+TelefoneFixo: 291 212 900
+
+Email: sandra.costa@madeira.gov.pt
+
+ExtensaoVOIP: 457742
+
+Localização: Rua do Seminário, n.º 21,
+
+TelefoneFixo: 291 212 900
+
+Email: sandra.costa@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90741
+
+Aberto em: 12/27/2024 9:48:56 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: A máquina do kélio não está a fazer os registos, parece estar desligada. Solicitam apoio técnico
+
+
+Local de trabalho: SRETC - Gabinete do secretario e serviços de apoio
+
+Funcionário: Maria Fernanda Vieira Gonçalves
+
+Contactos:
+
+TelefoneFixo: 291 211 900
+
+Email: fernanda.gomes@madeira.gov.pt
+
+ExtensaoVOIP: 457343
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90091
+
+Aberto em: 11/20/2024 10:29:56 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Pasta Digitalizações DSCO Bom dia, Desde sexta feira que não podemos digitalizar para a pasta geral DSCO obrigado Com os melhores cumprimentos, Eduardo Andrade Coodenador Técnico
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Eduardo Manuel Lagos Baptista de Andrade
+
+Contactos:
+
+Localização: Rua do Seminário
+
+ExtensaoVOIP: 457500
+
+Email: eduardo.andrade@madeira.gov.pt
+
+Localização: Rua do Seminário, n.º 21
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90101
+
+Aberto em: 11/20/2024 12:39:15 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Avaria do Computador do Posto nº2 da Sala de Exames Venho por este meio reportar a inoperacionalidade do computador do posto nº 2 da sala de exames. Assim sendo, solicito a sua reparação/substituição com a maior celeridade. Obrigado pela atenção. Com os melhores cumprimentos, ALEXANDRE GASPAR
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Alexandre Miguel Pita Gaspar
+
+Contactos:
+
+TelefoneFixo: 291 145 180
+
+Email: alexandre.mp.gaspar@madeira.gov.pt
+
+ExtensaoVOIP: 458159
+
+Localização: Rua do Seminário Nº21
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90108
+
+Aberto em: 11/20/2024 2:27:24 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Fornecimento de telefones VOIP conforme BCII em anexo DORITA CAMACHO SOUSA
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: DORITA CAMACHO SOUSA
+
+Contactos:
+
+Localização: Aeroporto
+
+Email: dorita.sousa@madeira.gov.pt
+
+ExtensaoVOIP: 456883
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º 23 – 2.º andar
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: 20EZ4DDN1087C6D5 - GRP2603P - Lote 9 - Tipo 3 - GRANDSTREAM
+==================================================
+
+Pedido de assistência nº: 90109
+
+Aberto em: 11/20/2024 2:29:31 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Fornecimento de telefones VOIP conforme BCII em anexo NATERCIA FERNANDES CHAVES FERREIRA
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: NATERCIA FERNANDES CHAVES FERREIRA
+
+Contactos:
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º 23
+
+Email: natercia.ferreira@madeira.gov.pt
+
+ExtensaoVOIP: 456841
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: 20EZ4GBN308F05F8 - GRP2604P - Lote 9 - Tipo 4 - GRANDSTREAM
+==================================================
+
+Pedido de assistência nº: 90138
+
+Aberto em: 11/21/2024 2:17:36 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Na sequência do projeto PRR criado pelo DLR n.º 8/2024/M, de 11 de novembro, vimos pelo presente solicitar a criação do seguinte endereço de correio eletrónico: prr.descarbonizar@madeira.gov.pt Por ora, deverão ter acesso ao mesmo, os seguintes colaboradores: rui.goncalves@madeira.gov.pt cristina.loreto@madeira.gov.pt monica.ls.silva@madeira.gov.pt antonio.rodrigues@madeira.gov.pt monica.ls.silva@madeira.gov.pt Obrigado, Com os melhores cumprimentos, Rui Gonçalves
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Rui Manuel Teixeira Gonçalves
+
+Contactos:
+
+Email: ruigoncalves.srp@gov-madeira.pt
+
+Localização: Rua do Seminário n.º 21
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90139
+
+Aberto em: 11/21/2024 2:24:28 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: [GRM| SC_VUL#129] [TLP: AMBER] Alerta de Vulnerabilidade - Apple Os serviços de Cibersegurança, no âmbito dos seus serviços de prevenção, vem alertar para as vulnerabilidades abaixo indicada. *Descrição* A Apple lançou, várias correções de segurança para vulnerabilidades identificadas em alguns dos seus produtos, algumas delas consideradas críticas. *Impacto* Caso estas vulnerabilidades sejam exploradas com sucesso, pode permitir que os agentes de ameaças cibernéticas executem remotamente código ou comandos arbitrários. *Referências* [1] Apple security releases - Apple Support [2] Apple Releases Security Updates for Multiple Products | CISA *Lista de produtos afetados* i. OS 18.1.1 and iPadOS 18.1.1 ii. macOS Sequoia 15.1.1 iii. iOS 17.7.2 and iPadOS 17.7.2 iv. visionOS 2.1.1 v. Safari 18.1.1 *Resolução* Recomenda-se a atualização dos produtos para a sua versão recomendada e deve considerar-se a verificação dos sistemas. Vimos por este meio solicitar que desenvolvam as seguintes ações: • Verificação dos factos apresentados; • Verificação da integridade dos sistemas possivelmente comprometidos, se for o caso; • Aplicação de todas as atualizações de segurança, disponíveis pelo fabricante, que resolvam estas vulnerabilidades; • Adoção de medidas que evitem possíveis reincidências; • Outras informações que ache pertinente; • Resposta a esta mensagem com indicação das ações adotadas. OBS: Esta mensagem está classificada [TLP:AMBER] - Distribuição Limitada. O destinatário pode compartilhar informações com outras pessoas dentro da sua organização, mas apenas numa lógica de "necessidade de saber". Disponíveis para quaisquer esclarecimentos adicionais, apresentamos os melhores cumprimentos, Cumprimentos, EMANUEL EMILIANO SPÍNOLA GONÇALVES Especialista de Sistemas e Tecnologias de Informação Serviços de Cibersegurança Tel: +351 291 145 112
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: Emanuel Emiliano Spínola Gonçalves
+
+Contactos:
+
+Email: emiliano.goncalves@madeira.gov.pt
+
+ExtensaoVOIP: 456015
+
+Localização: Azinhaga do Poço Barral, 23, Edifício Funchal Business Center, Piso 1A
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90141
+
+Aberto em: 11/21/2024 2:37:20 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Não consegue aceder ao computador pois a pass não está funcionando e o monitor não liga
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: António José de Freitas Rodrigues
+
+Contactos:
+
+Email: antonio.rodrigues@madeira.gov.pt
+
+Localização: R. do Seminário n.º 21,
+
+TelefoneVOIP: 291 145 180
+
+
+Equipamentos Associados:
+
+Computador: 8CG0093L8Q - HP ProOne 440 G5 23.8 ALL-IN-ONE - HP
+==================================================
+
+Pedido de assistência nº: 90138
+
+Aberto em: 11/21/2024 2:17:36 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Na sequência do projeto PRR criado pelo DLR n.º 8/2024/M, de 11 de novembro, vimos pelo presente solicitar a criação do seguinte endereço de correio eletrónico: prr.descarbonizar@madeira.gov.pt Por ora, deverão ter acesso ao mesmo, os seguintes colaboradores: rui.goncalves@madeira.gov.pt cristina.loreto@madeira.gov.pt monica.ls.silva@madeira.gov.pt antonio.rodrigues@madeira.gov.pt monica.ls.silva@madeira.gov.pt Obrigado, Com os melhores cumprimentos, Rui Gonçalves
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Rui Manuel Teixeira Gonçalves
+
+Contactos:
+
+Email: ruigoncalves.srp@gov-madeira.pt
+
+Localização: Rua do Seminário n.º 21
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90155
+
+Aberto em: 11/22/2024 3:38:03 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Assunto: problemas com ligação ao SICC Boa tarde, envio este email para reportar que não é possível aceder ao SICC a partir do meu computador desde esta manhã. Agradecia caso pudessem resolver o problema. Atenciosamente Joana Figueira SECRETARIA REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS DIREÇÃO REGIONAL DOS TRANSPORTES E DA MOBILIDADE TERRESTRE Direção de Serviços de Viação
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Débora Joana Neves Figueira
+
+Contactos:
+
+Email: debora.jn.figueira@madeira.gov.pt
+
+Localização: Rua do Seminário
+
+TelefoneVOIP: 291 145 180
+
+TelefoneFixo: 291 212 900
+
+Localização: Rua do Seminário, n.º 21
+
+Email: debora.jn.figueira@madeira.gov.pt
+
+TelefoneFixo: 291 212 900
+
+Email: debora.jn.figueira@madeira.gov.pt
+
+Localização: Rua do Seminário, n.º 21
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90160
+
+Aberto em: 11/25/2024 9:17:47 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Não está a conseguir entrar no email
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: MARIA ISABEL SILVA MATA
+
+Contactos:
+
+Email: isabel.camacho@madeira.gov.pt
+
+ExtensaoVOIP: 456035
+
+Localização: Azinhaga do Poço Barral, nº 23
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90752
+
+Aberto em: 1/2/2025 9:28:15 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: MIRADOURO DO CABO GIRÂO - LIGAÇÂO DE ALARME E CCTV Exma. Senhora Diretora Regional do Património Dra. Élia Ribeiro Versando o assunto em epígrafe, serve o presente para levar ao vosso conhecimento que esta Direção Regional, desencadeou um novo procedimento de Aquisição de Serviços de Vigilância e Segurança para o Miradouro do Gabo Girão, com a empresa Ronsegur, Rondas e Segurança, S.A, com inicio a 01 de janeiro de 2025 e término a 30 de junho de 2026, pelo que solicita-se a vossa melhor colaboração na transferência das ligações da empresa Securitas Direct Madeira para a nova empresa, de modo a a que seja assegurado as ligações necessárias para o sistemas de alarme e CCTV fiquem ligados a esta nova empresa. Para o efeito deixo o contacto do senhor responsável pela informática Marcelo Pais telemóvel 912326635, email marcelo.pais@ronsegur.pt, assim como responsável o Sr. Marco Abreu 938799206, email operacional.madeira@ronsegur.pt; Face ao exposto, solicita-se a vossa melhor colaboração na migração das ligações com a maior brevidade possível. Com os melhores cumprimentos, Rui Cortez Diretor Regional do Património drpa@madeira.gov.pt
+
+
+Local de trabalho: SRF - DRPA - Direção Regional Património
+
+Funcionário: Rui Nuno de Barros Cortez
+
+Contactos:
+
+Localização: Rua Alferes Veiga Pestana, n.º 3D
+
+ExtensaoVOIP: 404402 (DRPA.Diretor)
+
+Telemovel: 91 72 49 010
+
+Email: rui.cortez@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90162
+
+Aberto em: 11/25/2024 9:49:49 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Avaria ecrã TAG000013734 Solicitava a reparação/substituição do ecrã TAG000013734, pois este deixou de funcionar. O ecrã já vinha apresentar sinais de anomalias. O mesmo será entregue nas vossa instalações CARLOS MIGUEL DA ENCARNAÇÃO GONÇALVES Responsável Técnico - Serviço da Qualidade e Metrologia
+
+
+Local de trabalho: SREI - LREC - Laboratório Regional de Engenharia Civil
+
+Funcionário: Carlos Miguel da Encarnação Gonçalves
+
+Contactos:
+
+Localização: Rua Agostinho Pereira de Oliveira - São Martinho
+
+TelefoneFixo: 291 724 060
+
+Email: cgoncalves@lerec.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90167
+
+Aberto em: 11/25/2024 10:43:21 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Problemas com email Exmos. Senhores, Venho por este meio alertar que não estou conseguindo trabalhar no email, pois há funcionalidades que não respondem, ou demoram a responder, transferências de ficheiros e outros, não estão operacionais, sendo impossível trabalhar sem que estes sejam descarregados, também comunico que as digitalizações via email, não chegam a entrar na caixa de correio, dando como erro. Agradeço a atenção. Com os melhores cumprimentos, Lobélia Caetano Rodrigues da Luz
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Lobélia Caetano Rodrigues da Luz
+
+Contactos:
+
+ExtensaoVOIP: 457842
+
+ExtensaoVOIP: lobelia.cr.luz@madeira.gov.pt
+
+ExtensaoVOIP: 457842
+
+TelefoneFixo: 291 212 900
+
+Localização: Rua do Seminário, n.º 21
+
+Email: lobelia.cr.luz@madeira.gov.pt
+
+ExtensaoVOIP: 457842
+
+TelefoneFixo: 291 212 900
+
+Localização: Rua do Seminário, n.º 21
+
+Email: lobelia.cr.luz@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90169
+
+Aberto em: 11/25/2024 10:50:57 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Venho pelo presente email solicitar a atualização do RCI, tem uma nova versão que tem que ser instalada
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Carla Conceição Freitas Fernandes
+
+Contactos:
+
+Localização: Oudinot
+
+Email: carla.cf.fernandes@madeira.gov.pt
+
+TelefoneFixo: 291145520
+
+ExtensaoVOIP: 456673
+
+
+Equipamentos Associados:
+
+Computador: YM4P182848 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90155
+
+Aberto em: 11/22/2024 3:38:03 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Assunto: problemas com ligação ao SICC Boa tarde, envio este email para reportar que não é possível aceder ao SICC a partir do meu computador desde esta manhã. Agradecia caso pudessem resolver o problema. Atenciosamente Joana Figueira SECRETARIA REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS DIREÇÃO REGIONAL DOS TRANSPORTES E DA MOBILIDADE TERRESTRE Direção de Serviços de Viação
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Débora Joana Neves Figueira
+
+Contactos:
+
+Email: debora.jn.figueira@madeira.gov.pt
+
+Localização: Rua do Seminário
+
+TelefoneVOIP: 291 145 180
+
+TelefoneFixo: 291 212 900
+
+Localização: Rua do Seminário, n.º 21
+
+Email: debora.jn.figueira@madeira.gov.pt
+
+TelefoneFixo: 291 212 900
+
+Email: debora.jn.figueira@madeira.gov.pt
+
+Localização: Rua do Seminário, n.º 21
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90197
+
+Aberto em: 11/26/2024 11:16:12 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Bom dia , informo que Isabel Pinto , Cristina Roque e o Ricardo Jesus não tem acesso á pasta do gabinete de apoio e a Isabel Pinto não consegue digitalizar na impressora CANON 223 para a referida pasta (gabinete apoio) Com os melhores cumprimentos, ANA ISABEL FREITAS PINTO Assistente Operacional isabel.pinto@madeira.gov.pt
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Ana Isabel de Freitas Pinto
+
+Contactos:
+
+TelefoneVOIP: 291 145 180
+
+Localização: Rua do Seminário n.º 21
+
+Telemovel: 962471794
+
+ExtensaoVOIP: 457483
+
+Email: isabel.pinto@madeira.gov.pt
+
+Email: isabel.pinto@madeira.gov.pt
+
+ExtensaoVOIP: 457483
+
+Telemovel: 962471794
+
+Localização: Rua do Seminário n.º 21
+
+TelefoneVOIP: 291 145 180
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90200
+
+Aberto em: 11/26/2024 11:47:57 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Problemas no PC Bom dia Venho por este meio solicitar ajuda para o meu PC, o ecrã não liga e as vezes fica azul, esta muito lento, e não consigo atualizar o teams Com os melhores cumprimentos. ANA RODRIGUES Assistente Técnica aceu.rodrigues@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Ana Céu Marques Rodrigues
+
+Contactos:
+
+ExtensaoVOIP: 457683
+
+Localização: Rua Conceição nº101 A 9050-026 Funchal
+
+Email: aceu.rodrigues@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90211
+
+Aberto em: 11/26/2024 2:47:00 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: reporte situação monitores Venho por meio reportar um problema nos monitores [Philips 226V4L], entregues a 20/11/2024, afetos aos Técnicos Superiores do OERAM Carlos Rosa, que estão a apresentar as seguintes falhas: 1. Tela preta intermitente: o O monitor frequentemente exibe uma tela preta durante o uso, mesmo com o computador ligado e os cabos conectados corretamente. Imagem desfocada e distorcida: o Quando a tela está visível, a imagem aparece fora de foco, com distorções nas bordas e cores alteradas. o O problema persiste mesmo após ajustes de resolução. Gostaria de solicitar orientação sobre como proceder para solucionar o problema. Estou à disposição para fornecer informações adicionais, caso necessário. Agradeço pela atenção e aguardo resposta. Atenciosamente, Carla Vanessa Coutinho Correia Docente
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Carlos Alberto Marques Rosa
+
+Contactos:
+
+Extensao: 120
+
+TelefoneFixo: 291701090
+
+Localização: Estrada Comandante Camacho de Freitas
+
+Localização: Qualificação Profissional
+
+Email: carlos.rosa@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90212
+
+Aberto em: 11/26/2024 2:47:25 PM
+
+Estado atual: Aberto
+
+Prioridade: Alta
+
+Problema: [GRM|SC #749] [TLP: AMBER] – Código Malicioso - Sistema Infetado [10.55.33.187] Identificámos um sistema informático da sua responsabilidade envolvido em incidente de segurança classificado como: Classe de Incidente: Código Malicioso Objeto: TAG000037941 Foi detetado um alerta no dia 25/11/2024 pelas 13:54. Descrição: Os nossos sistemas lançaram um alerta com registo de eventos potencialmente maliciosos que poderão comprometer equipamento e/ou rede num dos serviços do GRM.
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Viriato Manuel Freitas Andrade Timóteo
+
+Contactos:
+
+Email: viriatotimoteo@gov-madeira.pt
+
+ExtensaoVOIP: 456776
+
+Localização: Laboratório Regional de Veterinária e Segurança Alimentar
+
+Localização: Santa Rita (LRVSA)
+
+Email: viriatotimoteo@gov-madeira.pt
+
+ExtensaoVOIP: 456776
+
+Localização: Laboratório Regional de Veterinária e Segurança Alimentar
+
+Localização: Santa Rita (LRVSA)
+
+
+Equipamentos Associados:
+
+Computador: CZC4280F1G - D330 - HP COMPAQ
+==================================================
+
+Pedido de assistência nº: 90213
+
+Aberto em: 11/26/2024 2:48:24 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: reporte situação monitores Venho por meio reportar um problema nos monitores [Philips 226V4L], entregues a 20/11/2024, afetos aos Técnicos Superiores do OERAM Carina Nóbrega que estão a apresentar as seguintes falhas: 1. Tela preta intermitente: o O monitor frequentemente exibe uma tela preta durante o uso, mesmo com o computador ligado e os cabos conectados corretamente. Imagem desfocada e distorcida: o Quando a tela está visível, a imagem aparece fora de foco, com distorções nas bordas e cores alteradas. o O problema persiste mesmo após ajustes de resolução. Gostaria de solicitar orientação sobre como proceder para solucionar o problema. Estou à disposição para fornecer informações adicionais, caso necessário. Agradeço pela atenção e aguardo resposta. Atenciosamente, Carla Vanessa Coutinho Correia Docente carla.vc.correia@madeira.gov.pt
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Carina Maria Gouveia Nóbrega
+
+Contactos:
+
+TelefoneFixo: 291 701 090 | Ext. 2043
+
+Email: carina.mg.nobrega@madeira.gov.pt
+
+Localização: Estrada comandante camacho freitas
+
+Localização: OERAM
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90214
+
+Aberto em: 11/26/2024 2:49:44 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: reporte situação monitores Venho por meio reportar um problema nos monitores [Philips 226V4L], entregues a 20/11/2024, afetos aos Técnicos Superiores do OERAM Xavier Abreu, que estão a apresentar as seguintes falhas: 1. Tela preta intermitente: o O monitor frequentemente exibe uma tela preta durante o uso, mesmo com o computador ligado e os cabos conectados corretamente. Imagem desfocada e distorcida: o Quando a tela está visível, a imagem aparece fora de foco, com distorções nas bordas e cores alteradas. o O problema persiste mesmo após ajustes de resolução. Gostaria de solicitar orientação sobre como proceder para solucionar o problema. Estou à disposição para fornecer informações adicionais, caso necessário. Agradeço pela atenção e aguardo resposta. Atenciosamente, Carla Vanessa Coutinho Correia Docente carla.vc.correia@madeira.gov.pt
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Nuno Xavier Paixão Abreu
+
+Contactos:
+
+Email: nuno.abreu@madeira.gov.pt
+
+Localização: OERAM/Observatório Educação
+
+TelefoneFixo: 291 701 090
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90755
+
+Aberto em: 1/2/2025 9:37:25 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Venho por este meio solicitar que a estagiária Joana Catarina Costa Cardoso, com o email joana.cc.cardoso@madeira.gov.pt, só tenha acesso à Pasta com o nome Joana Cardoso, que se encontra dentro do servidor DRAE > OERAM, e que não tenha acesso às restantes pastas, nomeadamente a pasta "Observatório Educação_RAM" e "Arquivo". Cumprimentos, Carla Vanessa Coutinho Correia Docente
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Carla Vanessa Coutinho Correia
+
+Contactos:
+
+Email: carla.vc.correia@madeira.gov.pt
+
+TelefoneFixo: 291701090
+
+Localização: Estrada Comandante Camacho de Freitas
+
+Localização: Qualificação Profissional
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90222
+
+Aberto em: 11/26/2024 4:53:13 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Afetação de um disco externo de 8 TB para utilização pelos assessores de imprensa do Gabinete. Aguarda BCII Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador antonio.castro@madeira.gov.pt
+
+
+Local de trabalho: PGRAM - Presidência do Governo Regional da Madeira
+
+Funcionário: Marcio Manuel Mendes Gouveia
+
+Contactos:
+
+Email: marcio.gouveia@madeira.gov.pt
+
+Telemovel: 933.418.960
+
+ExtensaoVOIP: 457575
+
+Localização: Quinta Vigia
+
+TelefoneVOIP: 291 145 001
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90224
+
+Aberto em: 11/27/2024 9:11:52 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Computador estagiário DRI Bom dia, Venho por este meio solicitar um computador completo com bom desempenho e respetivo endereço eletrónico (com acesso ao Teams) para o Técnico de informática em estágio por um ano Luís Tiago Sousa Gouveia – NIF 247684449 que inicia funções nesta Direção no dia 1/12/2024. Telemóvel – 930 425 444 Associar ao Grupo da Aplicação de Assistências Criar uma conta Op Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador antonio.castro@madeira.gov.pt
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: Luís Tiago Sousa Gouveia
+
+Contactos:
+
+Email: @
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90255
+
+Aberto em: 11/28/2024 10:40:16 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Venho por este meio voltar a reportar um problema nos ecrãs que foram atribuídos aos Técnicos superiores do OERAM (Carlos Rosa, Carina Nóbrega e Xavier Abreu). Os técnicos da DRI estiveram em nossas instalações e verificaram que o problema não está relacionado com os cabos. No entanto, os ecrãs continuam apresentando problemas de imagem, o que dificulta significativamente o desempenho do nosso serviço, que depende principalmente do uso do Excel e do SPSS. Assim sendo peço a substituição dos ecrãs por outros modelos, nomeadamente: - ASUS BE24EQK (igual ao monitor principal) Ou - Philips 221B3l Agradeço pela atenção e aguardo resposta. Atenciosamente, Carla Vanessa Coutinho Correia Docente carla.vc.correia@madeira.gov.pt
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Carla Vanessa Coutinho Correia
+
+Contactos:
+
+Email: carla.vc.correia@madeira.gov.pt
+
+TelefoneFixo: 291701090
+
+Localização: Estrada Comandante Camacho de Freitas
+
+Localização: Qualificação Profissional
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90254
+
+Aberto em: 11/28/2024 10:38:06 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: O computador esta mui
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Ana Cristina Ferreira Gouveia
+
+Contactos:
+
+Email: acristina.f.gouveia@madeira.gov.pt
+
+TelefoneFixo: 291 200 900
+
+Localização: Oudinot
+
+ExtensaoVOIP: 456664
+
+
+Equipamentos Associados:
+
+Computador: YM4P182311 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90290
+
+Aberto em: 11/29/2024 2:26:28 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Conforme falado, considerando estar a minha responsabilidade o departamento de Marketing, Imagem e Comunicação da Direção de Serviços do Desporto Escolar venho por este meio solicitar o seguinte: • Programa Lightroom • Programa Photoshop • Inclusão do meu email na caixa de email partilhada do Merketing do DSDE Certo da Vossa total disponibilidade. Cumprimentos, Avelino Silva
+
+
+Local de trabalho: SRE - Direção Regional de Educação
+
+Funcionário: Avelino da Silva
+
+Contactos:
+
+Email: avelino.silva@madeira.gov.pt
+
+Localização: Caminho dos Saltos - Monte
+
+Localização: "Antiga Escola do Tanque Monte - Direção de Serviços do Desporto Escolar
+
+ExtensaoVOIP: 459000
+
+
+Equipamentos Associados:
+
+Computador: 8CG0093GVC - HP ProOne 440 G5 23.8 ALL-IN-ONE - HP
+==================================================
+
+Pedido de assistência nº: 90300
+
+Aberto em: 12/2/2024 9:24:26 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: O teclado não está a funcionar e solicita um igual pois precisa do cartão de leitor
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: João Rodrigo Oliveira de Castro e Andrade
+
+Contactos:
+
+TelefoneFixo: 291 930 120
+
+Localização: Parque Empresarial da Cancela
+
+ExtensaoVOIP: 456116
+
+Email: rodrigo.andrade@madeira.gov.pt
+
+TelefoneFixo: 291 930 120
+
+Localização: Parque Empresarial da Cancela
+
+ExtensaoVOIP: 456116
+
+Email: rodrigo.andrade@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90311
+
+Aberto em: 12/2/2024 10:29:46 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: DRTMT - Nova colaboradora - Maria Emanuel Barreto Baptista - Acessos e transferência de equipamento Bom dia, Considerando que a Dra. Maria Emanuel Barreto Baptista iniciou hoje funções na área dos transportes vimos solicitar a vossa colaboração no que diz respeito à sua instalação neste novo serviço: • Fornecer e instalar o seu PC e o telefone VOIP na sala n.º 61, 1.º piso do edifício na Rua do seminário (esta colaboradora pertencia à IRF/SRF); • Criar acesso no iDok: criar utilizador igual a Cristina Loreto, incluído no “Gab. Diretor”; • Criar acesso no pasta partilhada DRTMT no servidor O:// mesmas permissões que Cristina Loreto. Com os melhores cumprimentos, Cristina Loreto Subdiretora Regional SECRETARIA REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS DIREÇÃO REGIONAL DOS TRANSPORTES E DA MOBILIDADE TERRESTRE Rua do Seminário, n.º 21 9050-022 Funchal Telefone: 291 145 180 | Ext. 418104 www.madeira.gov.pt | simplifica.madeira.gov.pt
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Maria Emanuel Barreto Baptista
+
+Contactos:
+
+Localização: Avenida Zarco - Palácio do Governo
+
+TelefoneVOIP: 291 145 165
+
+Email: maria.eb.baptista@madeira.gov.pt
+
+Telemovel: 966047331
+
+ExtensaoVOIP: 460113
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90317
+
+Aberto em: 12/2/2024 12:04:46 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: DRTMT - Nova colaboradora - Ana Isabel dos Santos Catanho Câmara - Acessos e instalação de equipamento Considerando que a Dra. Ana Isabel Câmara hoje iniciou funções nesta Direção Regional, vimos solicitar a vossa colaboração no que diz respeito à sua instalação neste novo serviço: • Instalar o seu PC e o telefone VOIP na sala n.º 33, 1.º piso do edifício na Rua do seminário (esta colaboradora até 30/11/2024 pertencia ao Gabinete da SRITJ e trouxe já o PC consigo); • Criar acesso no iDok (serviço DSG), no Kélio e no Portal do Funcionário Público: criar utilizador igual a Maria Maurília Silva Abreu Teixeira de Sousa; • Criar acesso no pasta partilhada DRTMT no servidor O:// com as mesmas permissões que Maria Maurília Silva Abreu Teixeira de Sousa. Antecipadamente grata, Com os melhores cumprimentos, Cristina Loreto Subdiretora Regional
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Ana Isabel dos Santos Catanho Câmara
+
+Contactos:
+
+Email: ana.camara@madeira.gov.pt
+
+ExtensaoVOIP: 458832
+
+Localização: Rua do Seminário, nº 21
+
+TelefoneFixo: 291145180
+
+Telemovel: 964519907
+
+
+Equipamentos Associados:
+
+EquipamentoGenerico: 20EZ4DDN1087C54E - GRP2603P - Lote 9 - Tipo 3 - GRANDSTREAM
+EquipamentoGenerico: TAG6113 - 2412 masp - ALCATEL
+EquipamentoGenerico: BGCSN0ARZDDVJ1 - HP USB Bus Slim SmartCard Lote 1 DRPI-23-CP-2019 - HP
+EquipamentoGenerico: FCMHH0CQWD12U9 - HP Optical Wired Mouse USB Lote 1 DRPI-CP23/2019 - HP
+Computador: 8CG0093GXL - HP ProOne 440 G5 23.8 ALL-IN-ONE - HP
+==================================================
+
+Pedido de assistência nº: 90328
+
+Aberto em: 12/2/2024 4:36:23 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Temos um ficheiro que integra a base de dados de um dos nossos processos de trabalho mais importantes, ou seja, a Validação Individual, prevista nos termos da Portaria n.º 36/2021, de 18 de fevereiro. A colega responsável por esse trabalho encriptou o ficheiro com uma palavra-passe que disponibilizou, a meu pedido, quando iniciou baixa médica há alguns meses e que funcionou, entretanto. Hoje, porém, a mesma palavra-passe, já não funciona, inviabilizando o acesso à informação indispensável ao serviço. Nessa medida, solicitamos a vossa intervenção no sentido da melhor solução possível para acesso aos dados do referido ficheiro. Aguardo uma vossa resposta, com a maior brevidade possível, por forma a colmatarmos esta necessidade premente do Serviço. ELSA CORREIA DE FREITAS Chefe de Divisão elsa.freitas@madeira.gov.pt
+
+
+Local de trabalho: SRE - Direção Regional de Educação
+
+Funcionário: Elsa Maria Correia de Freitas
+
+Contactos:
+
+Localização: Rua dos Ilhéus, 1-C, 1.º andar
+
+TelefoneFixo: 291 743 142
+
+Localização: Divisão de Formação de Pessoal
+
+Localização: Direção de Serviços de Investigação, Formação e Inovação Educacional
+
+Email: elsa.gomes@madeira.gov.pt
+
+ExtensaoVOIP: 457609
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90776
+
+Aberto em: 1/2/2025 4:36:17 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Criação de pasta no servidor da DREN e na Impressora Solicitamos a criação de uma pasta no Servidor da DREN, com a seguinte designação: ARQUIVO_DIGITAL Solicitamos ainda, que seja colocado na Impressora a possibilidade de as digitalizações serem feitas diretamente para a nova pasta. Terão acesso total à pasta de ARQUIVO_DIGITAL, os seguintes colaboradores: • Renato Ribeiro Faria • Fernando Eugénio da Silva • Sara Filipa Sousa Lino da Silva Nunes • José António Gonçalves Rocha • Maria Lina Fernandes Gonçalves Ferreira • Maria da Conceição Vieira de Azevedo • Luís Silvio Gomes Rodrigues
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Renato Ribeiro Faria
+
+Contactos:
+
+Email: renato.faria@madeira.gov.pt
+
+ExtensaoVOIP: 457540
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90341
+
+Aberto em: 12/3/2024 10:50:58 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Solicita-se a vossa intervenção para a reparação da tomada de parede do cabo RJ45 da colega Luísa Conceição. Com os melhores cumprimentos, Maria Maurília Sousa SECRETARIA REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS DIREÇÃO REGIONAL DOS TRANSPORTES E DA MOBILIDADE TERRESTRE Recursos Humanos
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Luísa Filipa Teixeira da Conceição
+
+Contactos:
+
+Email: luisa.ft.conceicao@madeira.gov.pt
+
+ExtensaoVOIP: 457722
+
+TelefoneFixo: 291145180
+
+Localização: Rua do Seminário, nº 21
+
+
+Equipamentos Associados:
+
+Computador: YM4P182369 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90345
+
+Aberto em: 12/3/2024 11:25:20 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computador Insys Prob G5 conforme BCII em anexo
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: Ana Laura Freitas Moura
+
+Contactos:
+
+Localização: Azinhaga do Poço Barral, 23, Edifício Funchal Business Center, Piso 1A, 9000-638 – Funchal - Madeira
+
+TelefoneVOIP: 291 145 190
+
+Email: laura.f.moura@madeira.gov.pt
+
+ExtensaoVOIP: 459116
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90357
+
+Aberto em: 12/3/2024 12:59:01 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de telefone VOIP Funcionário – Maria da Conceição Vieira Sá de Azevedo Equipamento - telefone VOIP Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Maria da Conceição Vieira Sá de Azevedo
+
+Contactos:
+
+Email: conceicao.azevedo@madeira.gov.pt
+
+ExtensaoVOIP: 457520
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90358
+
+Aberto em: 12/3/2024 1:00:51 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: fornecimento de computadores Monitores de 19 polegadas conforme BCII em anexo - Renato Ribeiro Faria Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Renato Ribeiro Faria
+
+Contactos:
+
+Email: renato.faria@madeira.gov.pt
+
+ExtensaoVOIP: 457540
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90359
+
+Aberto em: 12/3/2024 1:03:28 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computadores Monitores de 19 polegadas conforme BCII em anexo: - José António Gonçalves Rocha Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: José António Gonçalves Rocha
+
+Contactos:
+
+Email: jose.rocha@madeira.gov.pt
+
+ExtensaoVOIP: 457513
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90360
+
+Aberto em: 12/3/2024 1:05:55 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computadores Monitores de 19 polegadas conforme BCII em anexo: - Filipa Carina da Silva Barros Goncalves Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Filipa Carina da Silva Barros Goncalves
+
+Contactos:
+
+ExtensaoVOIP: 457505
+
+Email: carina.goncalves@madeira.gov.pt
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90361
+
+Aberto em: 12/3/2024 1:07:57 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computadores Monitores de 19 polegadas conforme BCII em anexo: - Maria Laura da Costa Nunes Abreu Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Maria Laura da Costa Nunes Abreu
+
+Contactos:
+
+Email: laura.nunes@madeira.gov.pt
+
+ExtensaoVOIP: 457526
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90362
+
+Aberto em: 12/3/2024 1:09:50 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computadores Monitores de 19 polegadas conforme BCII em anexo: - Maria da Conceição Vieira Sá de Azevedo Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SREI - Direção Regional de Energia
+
+Funcionário: Maria da Conceição Vieira Sá de Azevedo
+
+Contactos:
+
+Email: conceicao.azevedo@madeira.gov.pt
+
+ExtensaoVOIP: 457520
+
+Localização: Rua do hospital Velho, nº 23 – A – Edifício Insular (MMC) – 4º andar
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90382
+
+Aberto em: 12/3/2024 4:39:32 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Verificação do computador Boa tarde, Venho solicitar uma intervenção, pois o meu computador está muito lento, dificultando a realização dos trabalhos, adicionalmente, o equipamento não possui câmara e microfone, limitando atividades que requerem esses recursos. Obrigada Com os melhores cumprimentos, Maria Coutinho Técnica Superior da Divisão de Controlos e Licenciamentos Agroalimentares Direção de Serviços de Alimentação e Veterinária celeste.bento@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Maria Moisés Salgado Pereira Coutinho
+
+Contactos:
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, nº 23
+
+Email: mmoises.sp.coutinho@madeira.gov.pt
+
+ExtensaoVOIP: 458326
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, nº 23
+
+Email: mmoises.sp.coutinho@madeira.gov.pt
+
+ExtensaoVOIP: 458326
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90383
+
+Aberto em: 12/3/2024 4:41:01 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computador - Insys Prob G5 conforme BCII em anexo Funcionário – Tiago André Fernandes Alves Equipamento – Insys Prob G5 Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador
+
+
+Local de trabalho: SRETC - ARAE -Autoridade Regional das Atividade Económicas
+
+Funcionário: Tiago André Fernandes Alves
+
+Contactos:
+
+Localização: Rua Direita, nº27, 2º e 3.º
+
+Email: tiago.af.alves@madeira.gov.pt
+
+TelefoneVOIP: 291 145 120
+
+ExtensaoVOIP: 459141
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90387
+
+Aberto em: 12/3/2024 5:23:09 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Fornecimento de disco externo de 1TB conforme BCII em anexo Funcionário – DRI-equipa de CiberSegurança-Direção de Serviços de Cibersegurança
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: DRI-equipa de CiberSegurança-Direção de Serviços de Cibersegurança
+
+Contactos:
+
+Email: nuno.perry@madeira.gov.pt
+
+Localização: Sala SOC
+
+TelefoneVOIP: 291 145 190
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90777
+
+Aberto em: 1/2/2025 5:09:40 PM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Pedido de pasta partilha nos dados no Servidor (O) Exmos. Senhores, A pedido do Sr. Diretor Regional, Dr. Daniel Bravo da Mata, solicitamos a criação do acesso aos dados do Servidor (O:) dentro da pasta principal da DSDP (pasta O:\DRA\DSDP\ GSA). Pasta – GSA O Técnico Superior que terá acesso a esta pasta como leitura e estrita é: César Baptista de Abreu Temtem - cesar.ba.temtem@madeira.gov.pt Com os melhores cumprimentos, GABINETE DE APOIO AO DIRETOR REGIONAL drv@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Veterinária e Bem-Estar Animal
+
+Funcionário: Daniel Alexandre Maia Bravo da Mata
+
+Contactos:
+
+TelefoneFixo: 291145465
+
+ExtensaoVOIP: 458345
+
+Extensao: daniel.mata@madeira.gov.pt
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23 , 2º andar
+
+Email: @
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90471
+
+Aberto em: 12/6/2024 2:03:51 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Mensagem de erro Bom dia, Solicito o vosso apoio na resolução deste erro que voltou a surgir. Grata pela vossa atenção e votos de bom fim-de-semana. Com os melhores cumprimentos, MARIA MARLENE GOMES RODRIGUES Técnica Superior
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Maria Marlene Gomes Rodrigues
+
+Contactos:
+
+Email: maria.mg.rodrigues@madeira.gov.pt
+
+Localização: Edifício Oudinout, piso 4
+
+TelefoneFixo: 291 145 520
+
+ExtensaoVOIP: 458084
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90511
+
+Aberto em: 12/10/2024 8:58:01 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Por referência à pasta partilhada “DSACP”, serve o presente para solicitar o vosso apoio para o seguinte: 1. Acesso a escrita do novo colaborador André Henrique Mendonça 2. Restrição do acesso aos seguintes três colaboradores (consulta e escrita): a) Susana Lucas b) Ana Agrela c) André Mendonça Agradeço a vossa atenção. Com os melhores cumprimentos,
+
+
+Local de trabalho: SRF - DRPA - Direção Regional Património
+
+Funcionário: Susana Márcia Gonçalves Lucas Correia
+
+Contactos:
+
+Localização: Rua Alferes Veiga Pestana, 3D
+
+TelefoneFixo: 291 214 120
+
+Email: susana.mgl.correia@madeira.gov.pt
+
+ExtensaoVOIP: 458089
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90505
+
+Aberto em: 12/9/2024 3:26:34 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Anomalia VOIP - Avenida do Mar Boa tarde, Serve o presente para reportar uma anomalia no equipamento informático existente na Divisão de Sistemas de Incentivos – Avenida do Mar, n.º 23, Piso 1. • O VOIP da Dr. ª Cidália Sousa tem apresentando problemas de funcionamento; microfone desliga-se e quando funciona as chamadas tem ruídos. Para mais esclarecimento poderá contactar: Técnico – Cidália Sousa Telefone: 291 145 400 Ext – 456 906 Com os melhores cumprimentos, MANUEL JOSÉ FARIA DE AGUIAR Chefe de Divisão manuel.aguiar@madeira.gov.pt
+
+
+Local de trabalho: Direção Regional de Agricultura e Desenvolvimento Rural
+
+Funcionário: Maria Cidalia de Sousa
+
+Contactos:
+
+ExtensaoVOIP: 456906
+
+Email: cidalia.sousa@madeira.gov.pt
+
+Localização: Avenida do Mar e das Comunidades Madeirenses, n.º23
+
+TelefoneFixo: 291204203
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90547
+
+Aberto em: 12/11/2024 10:28:42 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: [GRM| SC_VUL#132] [TLP: AMBER] Alerta de Vulnerabilidade - [Adobe] [TLP:AMBER] Bom dia, Solicitamos que seja aberto uma PAT para as vulnerabilidades indicadas em epígrafe e que sejam associados aos colegas de primeira linha que dão suporte aos serviços que possuam equipamentos do fabricante Apple. Agradecemos a sua colaboração e cooperação, e solicitamos que nas comunicações subsequentes mantenha o assunto desta mensagem. A Direção de Serviços de Cibersegurança, no âmbito dos seus serviços de prevenção, vem alertar para as vulnerabilidades abaixo indicadas. *Descrição* A Adobe lançou atualizações de segurança para corrigir vulnerabilidades identificadas em alguns dos seus produtos, nas plataformas Windows e macOS, sendo algumas destas classificadas com severidade crítica. *Impacto* Caso estas vulnerabilidades sejam exploradas com sucesso, pode permitir que os agentes de ameaças cibernéticas detenham controlo do sistema. *Referências* [1] Adobe Product Security Incident Response Team (PSIRT) [2] Adobe Releases Security Updates for Multiple Products | CISA *Lista de produtos afetados* [i] Adobe Experience Manager [ii] Adobe Acrobat and Reader [iii] Adobe Media Encoder [iv] Adobe Illustrator [v] Adobe After Effects [vi] Adobe Animate [vii] Adobe InDesign [viii] Adobe PDFL SDK [ix] Adobe Connect [x] Adobe Substance 3D Sampler [xi] Adobe Photoshop [xii] Adobe Substance 3D Modeler [xiii] Adobe Bridge [xiv] Adobe Premiere Pro [xv] Adobe Substance 3D Painter [xvi] Adobe FrameMaker *Resolução* Recomenda-se a atualização dos produtos para a sua versão recomendada pelo fabricante e deve considerar-se a verificação dos sistemas. Vimos por este meio solicitar que desenvolvam as seguintes ações: • Verificação dos factos apresentados; • Verificação da integridade dos sistemas possivelmente comprometidos, se for o caso; • Aplicação de todas as atualizações de segurança disponíveis pelo fabricante, que resolvam estas vulnerabilidades; • Adoção de medidas que evitem possíveis reincidências; • Outras informações que ache pertinente; • Resposta a esta mensagem com indicação das ações adotadas. OBS: Esta mensagem está classificada [TLP:AMBER] - Distribuição Limitada. O destinatário pode compartilhar informações com outras pessoas dentro da sua organização, mas apenas numa lógica de "necessidade de saber". Disponíveis para quaisquer esclarecimentos adicionais, apresentamos os melhores cumprimentos, Cumprimentos, EMANUEL EMILIANO SPÍNOLA GONÇALVES Especialista de Sistemas e Tecnologias de Informação Serviços de Cibersegurança Tel: +351 291 145 112
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: DRI-equipa de CiberSegurança-Direção de Serviços de Cibersegurança
+
+Contactos:
+
+Email: nuno.perry@madeira.gov.pt
+
+Localização: Sala SOC
+
+TelefoneVOIP: 291 145 190
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90567
+
+Aberto em: 12/11/2024 3:46:18 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Urgente - Blue Window Boa tarde, venho reportar os erros (em anexo) do computador da colega Francisca do Nucleo de Expediente Geral (NEG). Informo que após esses erros a máquina reinicia (tempo de utilização não ultrapassa os 10m para aparecer novamente os erros e ir abaixo). Agradeço a vossa intervenção o mais breve possível, visto que se torna impossível utilizar esta máquina. Com os melhores cumprimentos, Bruno Nunes Assistente Técnico bruno.ds.nunes@madeira.gov.pt
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Francisca Marques Pontes
+
+Contactos:
+
+Email: francisca.m.pontes@madeira.gov.pt
+
+Localização: Oudinot
+
+ExtensaoVOIP: 458370
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90568
+
+Aberto em: 12/11/2024 3:46:31 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: venho reportar os erros (em anexo) do computador da colega Francisca do Nucleo de Expediente Geral (NEG). Informo que após esses erros a máquina reinicia (tempo de utilização não ultrapassa os 10m para aparecer novamente os erros e ir abaixo). Agradeço a vossa intervenção o mais breve possível, visto que se torna impossível utilizar esta máquina. Com os melhores cumprimentos, Bruno Nunes Assistente Técnico
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Francisca Marques Pontes
+
+Contactos:
+
+Email: francisca.m.pontes@madeira.gov.pt
+
+Localização: Oudinot
+
+ExtensaoVOIP: 458370
+
+
+Equipamentos Associados:
+
+Computador: YM4P182007 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90573
+
+Aberto em: 12/11/2024 4:35:39 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Boa tarde, Ao tentar entrar no portal do S.I.PRODERAM e no Portal do funcionário público fui impossibilitada com a informação “ A organização requer mais informações para manter a sua conta segura”. Agradecia a vossa intervenção para reparar esta anomalia. Com os melhores cumprimentos. Margarida Natividade Rodrigues Gonçalves Técnica Superior margarida.natividade@madeira.gov.pt
+
+
+Local de trabalho: DRA - PRODERAM
+
+Funcionário: MARGARIDA NATIVIDADE RODRIGUES GONCALVES
+
+Contactos:
+
+Email: margarida.natividade@madeira.gov.pt
+
+Localização: Rua do Aljube, nº 49 Edifício Funchal 9000-067 Funchal
+
+ExtensaoVOIP: 456360
+
+Email: margarida.natividade@madeira.gov.pt
+
+ExtensaoVOIP: 456360
+
+Localização: Rua do Aljube, nº 49 Edifício Funchal 9000-067 Funchal
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90574
+
+Aberto em: 12/11/2024 4:38:11 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Assistência informática - PEPAC Boa tarde, Não consigo aceder ao ambiente de testes do PEPAC em https://tst-sipepac.pepacc.pt/login O sistema emite alerta de segurança e não deixa avançar. Para obviar a situação, solicito a necessária assistência técnica Com os melhores cumprimentos Eusébio Freitas Gestor Adjunto do PEPAC R.A.Madeira eusebio.freitas@madeira.gov.pt
+
+
+Local de trabalho: DRA - PRODERAM
+
+Funcionário: ANTONIO EUSEBIO ANDRADE FREITAS
+
+Contactos:
+
+Localização: Rua do Aljube, nº 49
+
+Email: eusebio.freitas@madeira.gov.pt
+
+ExtensaoVOIP: 458035
+
+ExtensaoVOIP: 458035
+
+Email: eusebio.freitas@madeira.gov.pt
+
+Localização: Rua do Aljube, nº 49
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90584
+
+Aberto em: 12/12/2024 10:08:35 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Impressoras Caros Senhores Serve o presente no sentido de solicitar os Vossos bons ofícios e a Vossa intervenção técnica para me resolverem o seguinte problema; Através do meu computador não consigo aceder às impressoras do serviço, o que causa problemas complicados uma vez que me impede de responder aos processos que são intentados contra a Secretaria, Com os melhores cumprimentos Rui Bettencourt
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Rui Miguel Candelária Bettencourt
+
+Contactos:
+
+Email: bettencourtrc@edu-madeira.pt
+
+Extensao: 149
+
+TelefoneFixo: 291 200 900
+
+Localização: Oudinot
+
+ExtensaoVOIP: 456724
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90594
+
+Aberto em: 12/12/2024 3:38:06 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Sala de Formação - Microsoft Office Boa tarde. Solicito por favor que seja instalado o Microsoft 365 apps para grandes empresas no PC afeto ao utilizador DRIFormacao04 (4 PC da 1ª fila dos formandos). Tentei instalar o Office nessa máquina, mas como não possuo acesso de administrador não o consegui fazer. Solicito ainda que no PC DRIFormacao02 o Microsoft Office seja em Português. Tentei efetuar a mudança de idioma, mas como existem atualizações parece-me estar a ser um facto que impede definir o idioma em português. Obrigado
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: Sergio Daniel Fernandes Nascimento
+
+Contactos:
+
+Localização: Azinhaga do Poço Barral, 23, Edifício Funchal Business Center, Piso 1A
+
+TelefoneFixo: 291 145 190
+
+Email: sergio.nascimento@madeira.gov.pt
+
+ExtensaoVOIP: 458065
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90782
+
+Aberto em: 1/3/2025 9:36:09 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Houve um corte de energia na sala e agora alguma das funcionárias não conseguem ligar os equipamentos
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Tânia Raquel Calafatinho Nicolau
+
+Contactos:
+
+Extensao: 129
+
+Localização: Oudinot
+
+Email: tania.nicolau@madeira.gov.pt
+
+TelefoneFixo: 291200 900
+
+ExtensaoVOIP: 456732
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90589
+
+Aberto em: 12/12/2024 12:46:51 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Acesso a impressora de etiquetas (expediente ) Boa tarde, Informo que fiquei sem acesso a impressora IMP IMPRESSORA ETIQUETAS CELESTE. Com os melhores cumprimentos. Sónia Marta Freitas Rodrigues Martins Direção de Serviços de Gestão | Assistente Técnico sonia.martins@madeira.gov.pt
+
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+
+Funcionário: Sónia Marta Freitas Rodrigues Martins
+
+Contactos:
+
+ExtensaoVOIP: 457545
+
+Localização: Rua do Seminário n.º 21
+
+TelefoneFixo: 291 212 900
+
+Email: sonia.martins@madeira.gov.pt
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90610
+
+Aberto em: 12/13/2024 11:39:35 AM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: Venho por este meio solicitar a criação de uma conta com as respetivas credenciais, bem como os seguintes equipamentos e software para a estagiária Joana Catarina Costa Cardoso, com o NIF 252509390 (estágio na área do Design). • Local de Estágio: Observatório de Educação da RAM (Instituto para a Qualificação - Estrada Comandante Camacho de Freitas) • Inicio do estágio: 01-01-2025 prevendo-se a sua conclusão a 31-12-2025 • Equipamento PC com Office 365 • Software Adobe Photoshop e Illustrator O estágio terá início a 02/01/2025 pelo o solicitado terá que estar disponível nas instalações do OERAM até dia 02/01/2025. Cumprimentos, Carla Vanessa Coutinho Correia Docente
+
+
+Local de trabalho: OERAM - Observatório da Educação da RAM
+
+Funcionário: Joana Catarina Costa Cardoso
+
+Contactos:
+
+Email: @
+
+Localização: Observatório de Educação da RAM (Instituto para a Qualificação - Estrada Comandante Camacho de Freitas)
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90611
+
+Aberto em: 12/13/2024 12:11:45 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: [GRM| SC_VUL#134] [TLP: AMBER] Alerta de Vulnerabilidade - [Apple] [TLP:AMBER] Solicitamos que seja aberto uma PAT para as vulnerabilidades indicadas em epígrafe e que sejam associados aos colegas de primeira linha que dão suporte aos serviços que possuam equipamentos do fabricante Apple. Bom dia, Agradecemos a sua colaboração e cooperação, e solicitamos que nas comunicações subsequentes mantenha o assunto desta mensagem. Os serviços de Cibersegurança, no âmbito dos seus serviços de prevenção, vem alertar para as vulnerabilidades abaixo indicada. *Descrição* A Apple lançou, várias correções de segurança para vulnerabilidades identificadas em alguns dos seus produtos, algumas delas consideradas críticas. *Impacto* Caso estas vulnerabilidades sejam exploradas com sucesso, podem permitir que os agentes de ameaças cibernéticas detenham controlo sobre os equipamentos, executem remotamente código ou comandos arbitrários. *Referências* [1] Apple security releases - Apple Support [2] Apple Releases Security Updates for Multiple Products | CISA *Lista de produtos afetados* i. iOS 18.2 and iPadOS 18.2 ii. iPadOS 17.7.3 iii. macOS Sequoia 15.2 iv. macOS Sonoma 14.7.2 v. macOS Ventura 13.7.2 vi. watchOS 11.2 vii. tvOS 18.2 viii. visionOS 2.2 *Resolução* Recomenda-se a atualização dos produtos para a sua versão recomendada e deve considerar-se a verificação dos sistemas. Vimos por este meio solicitar que desenvolvam as seguintes ações: • Verificação dos factos apresentados; • Verificação da integridade dos sistemas possivelmente comprometidos, se for o caso; • Aplicação de todas as atualizações de segurança, disponíveis pelo fabricante, que resolvam estas vulnerabilidades; • Adoção de medidas que evitem possíveis reincidências; • Outras informações que ache pertinente; • Resposta a esta mensagem com indicação das ações adotadas. OBS: Esta mensagem está classificada [TLP:AMBER] - Distribuição Limitada. O destinatário pode compartilhar informações com outras pessoas dentro da sua organização, mas apenas numa lógica de "necessidade de saber". Disponíveis para quaisquer esclarecimentos adicionais, apresentamos os melhores cumprimentos, Cumprimentos, EMANUEL EMILIANO SPÍNOLA GONÇALVES Especialista de Sistemas e Tecnologias de Informação Tel: +351 291 145 112
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: SOC- Forense Vulnerabilidade-Cibersegurança
+
+Contactos:
+
+Email: sociber@madeira.gov.pt
+
+Localização: Equipa Forense
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90624
+
+Aberto em: 12/16/2024 9:33:25 AM
+
+Estado atual: Aberto
+
+Prioridade: Media
+
+Problema: Informo que a plataforma Filemaker Pro Advanced deixou de funcionar. Atentamente, HILÁRIO NUNES - Asssitente Técnico hilario.t.nunes@madeira.gov.pt
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: José Hilário Teixeira Nunes
+
+Contactos:
+
+ExtensaoVOIP: 457739
+
+Email: hilario.t.nunes@madeira.gov.pt
+
+Localização: Rua do Seminário
+
+ExtensaoVOIP: 457739
+
+Localização: Rua do Seminário n.º 21 · 9050-022 Funchal
+
+TelefoneVOIP: 291 145 180
+
+Email: hilario.t.nunes@madeira.gov.pt
+
+ExtensaoVOIP: 457739
+
+Localização: Rua do Seminário n.º 21 · 9050-022 Funchal
+
+Email: hilario.t.nunes@madeira.gov.pt
+
+TelefoneVOIP: 291 145 180
+
+
+Equipamentos Associados:
+
+Computador: YM4P182449 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
+Pedido de assistência nº: 90673
+
+Aberto em: 12/17/2024 3:14:05 PM
+
+Estado atual: Aberto
+
+Prioridade: Alta
+
+Problema: Algumas pessoas estão impossibilitadas de aceder ao Corresp na Direção Regional dos Assuntos Europeus (DRAE), aparecendo a seguinte mensagem: A DRAE agradece que seja verificada esta situação. Com os melhores cumprimentos, LINA FREITAS GONÇALVES Especialista de Sistemas e Tecnologias de Informação - Divisão de Desenvolvimento Tecnológico e Aplicacional
+
+
+Local de trabalho: SRF - DRI - Direção Regional de Informática
+
+Funcionário: Lina Maria dos Santos Freitas Gonçalves
+
+Contactos:
+
+Extensao: 2713
+
+Localização: Direção Regional dos Assuntos Europeus e da Cooperação Externa
+
+Localização: Rua Câmara Pestana, 17 - 2º
+
+TelefoneFixo: 291 212 060
+
+Email: lina.freitas@madeira.gov.pt
+
+ExtensaoVOIP: 456614
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90680
+
+Aberto em: 12/17/2024 4:23:22 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: fornecimento de computador NUC, para o funcionário da SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre: - Maria Emanuel Barreto Baptista Com os melhores cumprimentos, ANTÓNIO CASTRO Chefe do Núcleo de Apoio ao Utilizador antonio.castro@madeira.gov.pt
+
+
+Local de trabalho: SREI - DRTMT - Direção Regional dos Transportes e da Mobilidade Terrestre
+
+Funcionário: Maria Emanuel Barreto Baptista
+
+Contactos:
+
+TelefoneVOIP: 291 145 165
+
+Email: maria.eb.baptista@madeira.gov.pt
+
+Telemovel: 966047331
+
+ExtensaoVOIP: 460113
+
+Localização: na sala n.º 61, 1.º piso do edifício na Rua do seminário
+
+
+Equipamentos Associados: ----
+==================================================
+
+Pedido de assistência nº: 90568
+
+Aberto em: 12/11/2024 3:46:31 PM
+
+Estado atual: Aberto
+
+Prioridade: Normal
+
+Problema: venho reportar os erros (em anexo) do computador da colega Francisca do Nucleo de Expediente Geral (NEG). Informo que após esses erros a máquina reinicia (tempo de utilização não ultrapassa os 10m para aparecer novamente os erros e ir abaixo). Agradeço a vossa intervenção o mais breve possível, visto que se torna impossível utilizar esta máquina. Com os melhores cumprimentos, Bruno Nunes Assistente Técnico
+
+
+Local de trabalho: SRE - DRAE - Direção Regional de Administração Escolar
+
+Funcionário: Francisca Marques Pontes
+
+Contactos:
+
+Email: francisca.m.pontes@madeira.gov.pt
+
+Localização: Oudinot
+
+ExtensaoVOIP: 458370
+
+
+Equipamentos Associados:
+
+Computador: YM4P182007 - ESPRIMO D556/E85+ - Lote 2 - PAGESP2017 - FUJITSU
+==================================================
+
