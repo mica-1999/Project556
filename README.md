@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project reads emails from a Gmail account and saves them to a file called `reademails.txt`. It uses the Gmail API to access the emails.
+This project reads emails from a Gmail account and saves them to a file called `reademails.txt`. It uses the Gmail API to access the emails and formats the content for easy reading and processing by AI.
 
 ## Setup
 
@@ -113,14 +113,46 @@ def read_emails(service):
                     for part in msg['payload']['parts']:
                         if part['mimeType'] == 'text/plain':
                             body = base64.urlsafe_b64decode(part['body']['data']).decode('utf-8')
-                f.write(f"Subject: {subject}\n")
-                f.write(f"Body: {body}\n")
+                
+                relevant_body = extract_relevant_body(body)
+                
+                f.write(f"{relevant_body}")
                 f.write("\n" + "="*50 + "\n\n")
 ```
 
 - Calls the Gmail API to list messages in the inbox.
 - Fetches each message and extracts the subject and body.
-- Writes the subject and body to `reademails.txt`, with a separator between emails.
+- Formats the body to remove unnecessary empty lines and adds newlines before specific keywords.
+- Writes the formatted content to `reademails.txt`, with a separator between emails.
+
+### Extract Relevant Body
+
+```python
+def extract_relevant_body(body):
+    lines = body.split('\n')
+    relevant_lines = []
+    
+    for line in lines:
+        if "Técnicos:" in line:
+            break
+        if any(keyword in line for keyword in ["Aberto", "Estado", "Prioridade", "Problema"]):
+            if relevant_lines and relevant_lines[-1] != "":
+                relevant_lines.append("")
+        relevant_lines.append(line.strip())
+    
+    while relevant_lines and relevant_lines[0] == "":
+        relevant_lines.pop(0)
+    while relevant_lines and relevant_lines[-1] == "":
+        relevant_lines.pop()
+    
+    return '\n'.join(relevant_lines)
+```
+
+- Splits the body into lines and processes each line.
+- Adds a newline before lines containing specific keywords.
+- Trims leading and trailing whitespace from each line.
+- Removes any leading or trailing empty lines.
+- Joins the relevant lines back into a single string.
 
 ### Main Execution
 
@@ -137,4 +169,4 @@ if __name__ == '__main__':
 
 ## Conclusion
 
-This project demonstrates how to use the Gmail API to read emails and save them to a file. It includes setting up OAuth 2.0 authentication, calling the Gmail API, and processing email data.
+This project demonstrates how to use the Gmail API to read emails and save them to a file. It includes setting up OAuth 2.0 authentication, calling the Gmail API, and processing email data to format it for easy reading and AI processing.

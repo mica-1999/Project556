@@ -34,7 +34,7 @@ def authenticate_gmail():
     return creds
 
 def read_emails(service):
-    # Call the Gmail API
+    # Call the Gmail API to list messages in the inbox
     results = service.users().messages().list(userId='me', labelIds=['INBOX']).execute()
     messages = results.get('messages', [])
 
@@ -44,23 +44,55 @@ def read_emails(service):
         else:
             print('Messages:')
             for message in messages:
+                # Fetch each message by ID
                 msg = service.users().messages().get(userId='me', id=message['id']).execute()
                 subject = ''
                 body = ''
+                # Extract the subject from the email headers
                 for header in msg['payload']['headers']:
                     if header['name'] == 'Subject':
                         subject = header['value']
+                # Extract the body from the email payload
                 if 'data' in msg['payload']['body']:
                     body = base64.urlsafe_b64decode(msg['payload']['body']['data']).decode('utf-8')
                 else:
                     for part in msg['payload']['parts']:
                         if part['mimeType'] == 'text/plain':
                             body = base64.urlsafe_b64decode(part['body']['data']).decode('utf-8')
-                f.write(f"Subject: {subject}\n")
-                f.write(f"Body: {body}\n")
+                
+                # Extract relevant parts of the email body
+                relevant_body = extract_relevant_body(body)
+                
+                # Write the subject and relevant body to the file
+                f.write(f"{relevant_body}")
                 f.write("\n" + "="*50 + "\n\n")
 
+def extract_relevant_body(body):
+    # Split the body into lines
+    lines = body.split('\n')
+    relevant_lines = []
+    
+    for line in lines:
+        if "Técnicos:" in line:
+            break
+        if any(keyword in line for keyword in ["Aberto", "Estado", "Prioridade", "Problema"]):
+            if relevant_lines and relevant_lines[-1] != "":
+                relevant_lines.append("")
+        relevant_lines.append(line.strip())
+    
+    # Remove any leading or trailing empty lines
+    while relevant_lines and relevant_lines[0] == "":
+        relevant_lines.pop(0)
+    while relevant_lines and relevant_lines[-1] == "":
+        relevant_lines.pop()
+    
+    # Join the relevant lines back into a single string
+    return '\n'.join(relevant_lines)
+
 if __name__ == '__main__':
+    # Authenticate the Gmail account
     creds = authenticate_gmail()
+    # Build the Gmail API service
     service = build('gmail', 'v1', credentials=creds)
+    # Read emails and save them to reademails.txt
     read_emails(service)
