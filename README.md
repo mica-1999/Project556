@@ -122,6 +122,33 @@ def read_emails(service):
 - Fetches each message and extracts the subject and body.
 - Writes the subject and body to `reademails.txt`, with a separator between emails.
 
+## Usual Email Format Received in Company
+Pedido de assistência nº: 90840
+Aberto em: 1/6/2025 4:36:34 PM
+Estado atual: Aberto
+Prioridade: Normal
+Problema: [GRM|SC #792] [TLP: AMBER] – Código Malicioso - Sistema Infetado [TAG000054021] Agradecemos a sua colaboração e cooperação, e solicitamos que nas comunicações subsequentes mantenha o assunto desta mensagem. Identificámos um sistema informático da sua responsabilidade envolvido em incidente de segurança classificado como: Classe de Incidente: Código Malicioso Objeto: TAG000054021 Foi detetado um alerta no dia 27/12/2024 pelas 15:28 onde foram acedidos os seguintes sites categorizados como Malware, hxxp://mailshunt[.]com e hxxp://survey-smiles[.]com Descrição: Os nossos sistemas lançaram um alerta com registo de eventos potencialmente maliciosos que poderão comprometer equipamento e/ou rede num dos serviços do GRM. Vimos por este meio solicitar que desenvolvam as seguintes ações: • Verificação dos factos apresentados; • Verificação dos updates /segurança SO; • Verificação de AV completo (full scan); • Informar a necessidade de alterações de senhas de acesso, utilizadores incluídos; • Resposta a esta mensagem com indicação das ações adotadas; OBS: Esta mensagem está classificada TLP:AMBER - Distribuição Limitada. O destinatário pode compartilhar informações com outras pessoas dentro da sua organização, mas apenas numa lógica de "necessidade de saber". 
+
+Local de trabalho: SRETC - DREC - Direção Regional da Economia
+Funcionário: Rui Alberto Teixeira Lira
+Contactos: 
+Email: rui.at.lira@madeira.gov.pt
+Localização: Laboratório de Metrologia da Madeira
+TelefoneFixo: 291 930 120
+Email: rui.at.lira@madeira.gov.pt
+TelefoneFixo: 291 930 120
+Localização: Laboratório de Metrologia da Madeira
+
+Equipamentos Associados: 
+Computador: 8CG0093K31 - HP ProOne 440 G5 23.8 ALL-IN-ONE - HP
+
+Técnicos:
+Recebido por: Ricardina Paula Castro Abreu Luiz
+Técnico responsável: Antonio Luz Nunes Castro
+Técnicos associados:Antonio Luz Nunes Castro; Duarte Costa Nobrega; Duarte Miguel Pereira Correia da Silva Camara; Dulce Maria Conceicao Camara e Silva; Emanuel Emiliano Spinola Goncalves; Fernando Manuel Brazao Drumond; Filipe Gomes; Jethferandre Agostinho Mendes Hernandes; João Carlos de Jesus Gonçalves; José Micael Gonçalves Ribeiro; Ligia Maria Vasconcelos Gouveia; Luísa Andreia Fernandes Câmara; Mario de Ornelas Matias; Nuno Gonçalo Nunes Ornelas Perry Gomes; Nuno Silvestre Oliveira Faria; Paula Cristina Martins de Freitas Silva; Paulo Diogo; Ricardina Paula Castro Abreu Luiz; Rita Maria Ferreira de Sousa; Sérgio Gonçalo Nunes Silva; Vitor Miguel Rocha Serrao
+
+
+
 ### Main Execution
 
 ```python
