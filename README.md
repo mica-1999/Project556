@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project reads emails from a Gmail account and saves them to a file called `reademails.txt`. It uses the Gmail API to access the emails and formats the content for easy reading and processing by AI.
+This project reads emails from a Gmail account and saves them to a file called `reademails.txt`. It uses the Gmail API to access the emails and formats the content for easy reading and processing by AI. Additionally, it includes a script to resend `.eml` files as separate emails to the Gmail account for processing.
 
 ## Setup
 
@@ -23,11 +23,26 @@ pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-pyt
 
 ### Place the `credentials.json` File
 
-Save the `credentials.json` file in the same directory as your script.
+Save the `credentials.json` file in the `credentials` directory.
 
-## Running the Script
+## Running the Scripts
 
-Run the script to read emails and save them to `reademails.txt`:
+### Resending `.eml` Files
+
+The `Resending-Email.py` script reads `.eml` files from a specified directory and sends each one as a separate email to your Gmail account.
+
+1. **Update the Recipient Email**: Open `Resending-Email.py` and update the `recipient_email` variable with your Gmail address.
+2. **Run the Script**: Execute the script to resend the `.eml` files.
+
+```sh
+python Resending-Email.py
+```
+
+### Reading Emails
+
+The `main.py` script reads emails from your Gmail account and saves them to `reademails.txt`.
+
+1. **Run the Script**: Execute the script to read emails and save them to `reademails.txt`.
 
 ```sh
 python main.py
@@ -37,7 +52,113 @@ The first time you run the script, it will open a browser window for you to log 
 
 ## Code Explanation
 
-### Import Libraries
+### Resending-Email.py
+
+This script reads `.eml` files from a specified directory and sends each one as a separate email to your Gmail account.
+
+#### Import Libraries
+
+```python
+import os
+import base64
+import email
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.application import MIMEApplication
+from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
+```
+
+#### Define Scopes
+
+```python
+SCOPES = ['https://www.googleapis.com/auth/gmail.send']
+```
+
+Defines the scope of access required to send emails.
+
+#### Authenticate Gmail
+
+```python
+def authenticate_gmail():
+    creds = None
+    if os.path.exists('credentials/token.json'):
+        os.remove('credentials/token.json')  # Delete the existing token to force re-authentication
+    if os.path.exists('credentials/token.json'):
+        creds = Credentials.from_authorized_user_file('credentials/token.json', SCOPES)
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file('credentials/credentials-gmail.json', SCOPES)
+            creds = flow.run_local_server(port=0)
+        with open('credentials/token.json', 'w') as token:
+            token.write(creds.to_json())
+    return creds
+```
+
+#### Send `.eml` Files
+
+```python
+def send_eml_files(service, directory, recipient_email):
+    for filename in os.listdir(directory):
+        if filename.endswith('.eml'):
+            filepath = os.path.join(directory, filename)
+            with open(filepath, 'r') as eml_file:
+                eml_data = eml_file.read()
+                msg = email.message_from_string(eml_data)
+                subject = msg['subject']
+                body = ''
+                if msg.is_multipart():
+                    for part in msg.walk():
+                        if part.get_content_type() == 'text/plain' and part.get_payload(decode=True):
+                            try:
+                                body = part.get_payload(decode=True).decode('utf-8')
+                            except UnicodeDecodeError:
+                                body = part.get_payload(decode=True).decode('latin1')
+                            break
+                else:
+                    try:
+                        body = msg.get_payload(decode=True).decode('utf-8')
+                    except UnicodeDecodeError:
+                        body = msg.get_payload(decode=True).decode('latin1')
+                
+                message = MIMEMultipart()
+                message['to'] = recipient_email
+                message['subject'] = subject
+                message.attach(MIMEText(body, 'plain'))
+                
+                with open(filepath, 'rb') as attachment:
+                    part = MIMEApplication(attachment.read(), Name=filename)
+                    part['Content-Disposition'] = f'attachment; filename="{filename}"'
+                    message.attach(part)
+                
+                raw_message = base64.urlsafe_b64encode(message.as_bytes()).decode('utf-8')
+                message_body = {'raw': raw_message}
+                
+                service.users().messages().send(userId='me', body=message_body).execute()
+                print(f'Sent: {filename}')
+```
+
+#### Main Execution
+
+```python
+if __name__ == '__main__':
+    creds = authenticate_gmail()
+    service = build('gmail', 'v1', credentials=creds)
+    eml_directory = 'email-messages'
+    recipient_email = 'your-email@gmail.com'  # Update this line with the correct email address
+    send_eml_files(service, eml_directory, recipient_email)
+    print("All emails have been sent.")
+```
+
+### main.py
+
+This script reads emails from your Gmail account and saves them to `reademails.txt`.
+
+#### Import Libraries
 
 ```python
 from __future__ import print_function
@@ -50,52 +171,42 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 ```
 
-- `os.path`: Provides functions for interacting with the file system.
-- `base64`: Provides functions for encoding and decoding data.
-- `json`: Provides functions for working with JSON data.
-- `google.auth.transport.requests.Request`: Used for making HTTP requests.
-- `google.oauth2.credentials.Credentials`: Manages OAuth 2.0 credentials.
-- `google_auth_oauthlib.flow.InstalledAppFlow`: Manages the OAuth 2.0 authorization flow.
-- `googleapiclient.discovery.build`: Creates a resource object for interacting with the Gmail API.
-
-### Define Scopes
+#### Define Scopes
 
 ```python
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 ```
 
-Defines the scope of access required. In this case, read-only access to Gmail.
+Defines the scope of access required to read emails.
 
-### Authenticate Gmail
+#### Authenticate Gmail
 
 ```python
 def authenticate_gmail():
     creds = None
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+    if os.path.exists('credentials/token.json'):
+        os.remove('credentials/token.json')  # Delete the existing token to force re-authentication
+    if os.path.exists('credentials/token.json'):
+        creds = Credentials.from_authorized_user_file('credentials/token.json', SCOPES)
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file('credentials.json', SCOPES)
+            flow = InstalledAppFlow.from_client_secrets_file('credentials/credentials-gmail.json', SCOPES)
             creds = flow.run_local_server(port=0)
-        with open('token.json', 'w') as token:
+        with open('credentials/token.json', 'w') as token:
             token.write(creds.to_json())
     return creds
 ```
 
-- Checks if `token.json` exists and loads credentials from it.
-- If credentials are not valid, initiates the OAuth 2.0 authorization flow.
-- Saves the credentials to `token.json` for future use.
-
-### Read Emails
+#### Read Emails
 
 ```python
 def read_emails(service):
     results = service.users().messages().list(userId='me', labelIds=['INBOX']).execute()
     messages = results.get('messages', [])
 
-    with open("reademails.txt", "w", encoding="utf-8") as f:
+    with open("Output-Emails/reademails.txt", "w", encoding="utf-8") as f:
         if not messages:
             print('No messages found.')
         else:
@@ -120,12 +231,7 @@ def read_emails(service):
                 f.write("\n" + "="*50 + "\n\n")
 ```
 
-- Calls the Gmail API to list messages in the inbox.
-- Fetches each message and extracts the subject and body.
-- Formats the body to remove unnecessary empty lines and adds newlines before specific keywords.
-- Writes the formatted content to `reademails.txt`, with a separator between emails.
-
-### Extract Relevant Body
+#### Extract Relevant Body
 
 ```python
 def extract_relevant_body(body):
@@ -148,40 +254,7 @@ def extract_relevant_body(body):
     return '\n'.join(relevant_lines)
 ```
 
-- Splits the body into lines and processes each line.
-- Adds a newline before lines containing specific keywords.
-- Trims leading and trailing whitespace from each line.
-- Removes any leading or trailing empty lines.
-- Joins the relevant lines back into a single string.
-
-## Usual Email Format Received in Company
-Pedido de assistência nº: 90840
-Aberto em: 1/6/2025 4:36:34 PM
-Estado atual: Aberto
-Prioridade: Normal
-Problema: [GRM|SC #792] [TLP: AMBER] – Código Malicioso - Sistema Infetado [TAG000054021] Agradecemos a sua colaboração e cooperação, e solicitamos que nas comunicações subsequentes mantenha o assunto desta mensagem. Identificámos um sistema informático da sua responsabilidade envolvido em incidente de segurança classificado como: Classe de Incidente: Código Malicioso Objeto: TAG000054021 Foi detetado um alerta no dia 27/12/2024 pelas 15:28 onde foram acedidos os seguintes sites categorizados como Malware, hxxp://mailshunt[.]com e hxxp://survey-smiles[.]com Descrição: Os nossos sistemas lançaram um alerta com registo de eventos potencialmente maliciosos que poderão comprometer equipamento e/ou rede num dos serviços do GRM. Vimos por este meio solicitar que desenvolvam as seguintes ações: • Verificação dos factos apresentados; • Verificação dos updates /segurança SO; • Verificação de AV completo (full scan); • Informar a necessidade de alterações de senhas de acesso, utilizadores incluídos; • Resposta a esta mensagem com indicação das ações adotadas; OBS: Esta mensagem está classificada TLP:AMBER - Distribuição Limitada. O destinatário pode compartilhar informações com outras pessoas dentro da sua organização, mas apenas numa lógica de "necessidade de saber". 
-
-Local de trabalho: SRETC - DREC - Direção Regional da Economia
-Funcionário: Rui Alberto Teixeira Lira
-Contactos: 
-Email: rui.at.lira@madeira.gov.pt
-Localização: Laboratório de Metrologia da Madeira
-TelefoneFixo: 291 930 120
-Email: rui.at.lira@madeira.gov.pt
-TelefoneFixo: 291 930 120
-Localização: Laboratório de Metrologia da Madeira
-
-Equipamentos Associados: 
-Computador: 8CG0093K31 - HP ProOne 440 G5 23.8 ALL-IN-ONE - HP
-
-Técnicos:
-Recebido por: Ricardina Paula Castro Abreu Luiz
-Técnico responsável: Antonio Luz Nunes Castro
-Técnicos associados:Antonio Luz Nunes Castro; Duarte Costa Nobrega; Duarte Miguel Pereira Correia da Silva Camara; Dulce Maria Conceicao Camara e Silva; Emanuel Emiliano Spinola Goncalves; Fernando Manuel Brazao Drumond; Filipe Gomes; Jethferandre Agostinho Mendes Hernandes; João Carlos de Jesus Gonçalves; José Micael Gonçalves Ribeiro; Ligia Maria Vasconcelos Gouveia; Luísa Andreia Fernandes Câmara; Mario de Ornelas Matias; Nuno Gonçalo Nunes Ornelas Perry Gomes; Nuno Silvestre Oliveira Faria; Paula Cristina Martins de Freitas Silva; Paulo Diogo; Ricardina Paula Castro Abreu Luiz; Rita Maria Ferreira de Sousa; Sérgio Gonçalo Nunes Silva; Vitor Miguel Rocha Serrao
-
-
-
-### Main Execution
+#### Main Execution
 
 ```python
 if __name__ == '__main__':
@@ -190,14 +263,6 @@ if __name__ == '__main__':
     read_emails(service)
 ```
 
-- Authenticates the Gmail account.
-- Builds the Gmail API service.
-- Reads emails and saves them to `reademails.txt`.
-
 ## Conclusion
 
-<<<<<<< HEAD
-This project demonstrates how to use the Gmail API to read emails and save them to a file. It includes setting up OAuth 2.0 authentication, calling the Gmail API, and processing email data to format it for easy reading and AI processing.
-=======
-This project demonstrates how to use the Gmail API to read emails and save them to a file. It includes setting up OAuth 2.0 authentication, calling the Gmail API, and processing email data.
->>>>>>> 89a5e5a670762c99db324f52e511f42ab13c93cc
+This project demonstrates how to use the Gmail API to read emails and save them to a file. It includes setting up OAuth 2.0 authentication, calling the Gmail API, and processing email data. Additionally, it includes a script to resend `.eml` files as separate emails to the Gmail account for processing.
